@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite this release and the accompanying manuscript."
+title: "LLM-BIOS: Two-Stage Knowledge Graph and LLM Safety Screening of Medical Facts"
+type: software
+version: 1.0.0
+date-released: 2026-10-08
+license: GPL-3.0-only
+repository-code: "https://github.com/CHANG20240909/llm-bios-jmir-v31"
+authors:
+  - family-names: Chang
+    given-names: Hyun
+    orcid: "https://orcid.org/0000-0002-5203-7513"
+    affiliation: "International St. Mary's Hospital, Catholic Kwandong University College of Medicine"
+  - family-names: Jung
+    given-names: Jin-Woo
+    orcid: "https://orcid.org/0009-0009-4765-8436"
+    affiliation: "International St. Mary's Hospital, Catholic Kwandong University"
+  - family-names: Kim
+    given-names: Yongho
+    orcid: "https://orcid.org/0000-0003-1722-1937"
+    affiliation: "International St. Mary's Hospital, Catholic Kwandong University"
+keywords:
+  - medical large language models
+  - knowledge graphs
+  - safety screening
+  - benchmark
+  - clinical artificial intelligence

@@ -1,0 +1,19 @@
+# C1: KG-Exact — Phase 1 only, exact string matching
+# Most restrictive: requires exact concept/relationship matches
+seed: 0
+medical_phrases: REPO_ROOT/data/PLACEHOLDER_PHRASES.csv
+
+verify:
+  k_r: 1
+  k_c: 1
+  check_negatives: false
+  check_exact_relationships: true
+  check_exact_concepts: true
+
+knowledge_graph:
+  ground_truth: REPO_ROOT/data/bios_kg/bios_edges_term_sample_1m.jsonl
+  vector_db_root: REPO_ROOT/data/vector_db_bios_1m
+  rebuild_vector_db: false
+  embedding_model: medcpt
+  embedding_batch_size: 64
+  streaming_kg: true

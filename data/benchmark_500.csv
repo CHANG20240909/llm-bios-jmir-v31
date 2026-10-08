@@ -1,0 +1,501 @@
+origin,relationship,target,ground_truth,source,domain,rationale
+tofacitinib 5 mg,may treat,psoriatic arthritis,correct,gpt4o,rheumatology,Tofacitinib is approved for the treatment of psoriatic arthritis.
+diphenhydramine,interacts with,clozapine,correct,gpt4o,psychiatry,Diphenhydramine can increase the sedative effects of clozapine.
+menopause,may cause,sweating,correct,gpt4o,endocrinology,Menopause is commonly associated with hot flashes and sweating.
+complete blood count,may diagnose,agranulocytosis,correct,gpt4o,hematology,A complete blood count can reveal low white blood cell counts indicative of agranulocytosis.
+olanzapine,has adverse effect,hypercholesterolemia,correct,gpt4o,psychiatry,Olanzapine is known to cause metabolic side effects including hypercholesterolemia.
+peptic ulcer disease,ddx,esophagitis,correct,gpt4o,gastroenterology,Peptic ulcer disease and esophagitis can present with similar symptoms such as upper abdominal pain.
+lopinavir,contraindication,naloxegol,correct,gpt4o,infectious,Lopinavir is contraindicated with naloxegol due to potential for serious drug interactions.
+steroids,may treat,pediatric pharyngitis,correct,gpt4o,infectious,Steroids can be used to reduce inflammation in severe cases of pharyngitis.
+histrelin,interacts with,ceritinib,correct,gpt4o,oncology,Histrelin may affect the metabolism of ceritinib through CYP450 interactions.
+goodpasture syndrome,may cause,malaise,correct,gpt4o,nephrology,Goodpasture syndrome can cause systemic symptoms including malaise.
+serum prolactin measurement,may diagnose,posttraumatic epilepsy,correct,gpt4o,neurology,"Elevated serum prolactin can be used to support the diagnosis of seizures, including posttraumatic epilepsy."
+ceritinib,has adverse effect,diarrhea,correct,gpt4o,oncology,Diarrhea is a common side effect of ceritinib.
+acute conjunctivitis,ddx,measles,correct,gpt4o,infectious,"Measles can present with conjunctivitis, making it a differential diagnosis."
+etravirine,contraindication,rilpivirine,correct,gpt4o,infectious,Etravirine and rilpivirine should not be used together due to potential drug interactions.
+laser therapy,may treat,hirsutism,correct,gpt4o,dermatology,Laser therapy is an effective treatment for reducing excessive hair growth in hirsutism.
+eribulin,interacts with,quinidine,correct,gpt4o,oncology,"Eribulin and quinidine can interact, affecting cardiac conduction."
+echovirus infection,may cause,spasmodic pain,correct,gpt4o,infectious,Echovirus infections can lead to spasmodic pain as part of the clinical presentation.
+color-doppler sonography,may diagnose,pediatric thyroid cancer,correct,gpt4o,endocrinology,Color-doppler sonography can be used to evaluate thyroid nodules in children.
+venetoclax,has adverse effect,vomiting,correct,gpt4o,oncology,"Venetoclax is known to cause gastrointestinal side effects, including vomiting."
+trypanosomiasis,ddx,pediatric gastroesophageal reflux,correct,gpt4o,infectious,Trypanosomiasis can cause esophageal symptoms that mimic gastroesophageal reflux.
+ribociclib,contraindication,saquinavir,correct,gpt4o,oncology,Ribociclib and saquinavir should not be co-administered due to potential for increased toxicity.
+current treatment strategy,may treat,panic disorder,correct,gpt4o,psychiatry,Current treatment strategies for panic disorder include cognitive behavioral therapy and medication.
+tolmetin,interacts with,cortisone,correct,gpt4o,rheumatology,"Tolmetin and cortisone can interact, potentially affecting inflammation control."
+progressive supranuclear palsy,may cause,disordered sleep,correct,gpt4o,neurology,Progressive supranuclear palsy can lead to sleep disturbances due to neurodegeneration.
+stress nuclear imaging,may diagnose,alcoholic cardiomyopathy,correct,gpt4o,cardiology,Stress nuclear imaging can assess cardiac function in cases of alcoholic cardiomyopathy.
+cephalexin,has adverse effect,confusion,correct,gpt4o,infectious,"Cephalexin can cause central nervous system side effects, including confusion."
+pseudophakic pupillary block,ddx,aphakic and pseudophakic glaucoma,correct,gpt4o,ophthalmology,Pseudophakic pupillary block can mimic the symptoms of glaucoma.
+ketoconazole,contraindication,eliglustat,correct,gpt4o,infectious,"Ketoconazole can inhibit the metabolism of eliglustat, leading to increased risk of toxicity."
+individualized treatment,may treat,aneuploidy,correct,gpt4o,genetics,Individualized treatment approaches can be tailored to manage conditions associated with aneuploidy.
+buspirone,has adverse effect,nausea,correct,gpt4o,psychiatry,Nausea is a known side effect of buspirone.
+mediastinal seminoma,may cause,constitutional symptoms,correct,gpt4o,oncology,Mediastinal seminoma can present with systemic symptoms such as fatigue and weight loss.
+renal biopsy,may diagnose,anti-gbm antibody disease,correct,gpt4o,nephrology,Renal biopsy is used to confirm the diagnosis of anti-GBM antibody disease.
+lemborexant,interacts with,fexinidazole,correct,gpt4o,neurology,Lemborexant and fexinidazole may interact through shared metabolic pathways.
+meningioma,ddx,syringomyelia,correct,gpt4o,neurology,Meningioma and syringomyelia can both cause neurological symptoms that overlap.
+idribine,contraindication,naloxegol,correct,gpt4o,oncology,Idelalisib and naloxegol should not be used together due to potential for serious interactions.
+chemoprophylaxis,may treat,influenza,correct,gpt4o,infectious,Chemoprophylaxis is used to prevent influenza in high-risk populations.
+diazepam,interacts with,griseofulvin,correct,gpt4o,neurology,"Diazepam and griseofulvin can interact, affecting the metabolism of both drugs."
+sudden infant death syndrome,may cause,respiratory pauses,correct,gpt4o,pediatrics,Respiratory pauses are a characteristic finding in sudden infant death syndrome.
+allergy testing,may diagnose,iga and igg subclass deficiencies,correct,gpt4o,immunology,Allergy testing can help identify immunoglobulin deficiencies.
+venetoclax,interacts with,ibritumomab tiuxetan,correct,gpt4o,oncology,"Venetoclax and ibritumomab tiuxetan can interact, potentially increasing toxicity."
+asbestosis,ddx,hypersensitivity pneumonitis,correct,gpt4o,pulmonology,Asbestosis and hypersensitivity pneumonitis can present with similar respiratory symptoms.
+buspirone,may treat,epilepsy,incorrect,manual_curated,neurology,Buspirone is an anxiolytic for generalized anxiety disorder and has no anticonvulsant properties for treating epilepsy.
+diphenhydramine,may cause,hypertension,incorrect,manual_curated,cardiology,Diphenhydramine is an antihistamine that may cause sedation and anticholinergic effects but is not associated with causing hypertension.
+olanzapine,may treat,Parkinson's disease,incorrect,manual_curated,neurology,Olanzapine is an antipsychotic that blocks dopamine receptors and would worsen Parkinson's disease rather than treat it.
+menopause,may cause,glaucoma,incorrect,manual_curated,ophthalmology,"Menopause involves hormonal changes but is not a recognized cause of glaucoma, which is related to intraocular pressure dynamics."
+complete blood count,may treat,anemia,incorrect,manual_curated,hematology,"A complete blood count is a diagnostic laboratory test and cannot treat anemia, which requires iron supplementation or other interventions."
+cephalexin,may treat,viral pneumonia,incorrect,manual_curated,infectious,Cephalexin is a first-generation cephalosporin antibiotic effective against bacteria and has no activity against viral pneumonia.
+histrelin,may treat,type 2 diabetes,incorrect,manual_curated,endocrinology,Histrelin is a GnRH agonist used for prostate cancer and precocious puberty with no role in treating type 2 diabetes.
+ceritinib,may treat,rheumatoid arthritis,incorrect,manual_curated,rheumatology,Ceritinib is an ALK inhibitor for non-small cell lung cancer and is not used to treat rheumatoid arthritis.
+venetoclax,may treat,breast cancer,incorrect,manual_curated,oncology,Venetoclax is a BCL-2 inhibitor approved for CLL and AML and is not indicated for breast cancer treatment.
+pseudophakic pupillary block,ddx,diabetic retinopathy,incorrect,manual_curated,ophthalmology,"Pseudophakic pupillary block causes acute angle-closure glaucoma, which is clinically distinct from diabetic retinopathy."
+etravirine,may treat,hepatitis B,incorrect,manual_curated,infectious,Etravirine is an NNRTI antiretroviral for HIV-1 and has no antiviral activity against hepatitis B virus.
+ribociclib,may treat,colon cancer,incorrect,manual_curated,oncology,Ribociclib is a CDK4/6 inhibitor approved for HR+/HER2- breast cancer and is not indicated for colon cancer.
+tolmetin,may treat,asthma,incorrect,manual_curated,pulmonology,Tolmetin is an NSAID for arthritis and is not used to treat asthma; NSAIDs can actually exacerbate asthma in susceptible patients.
+lemborexant,may treat,schizophrenia,incorrect,manual_curated,psychiatry,Lemborexant is a dual orexin receptor antagonist for insomnia and has no antipsychotic properties for treating schizophrenia.
+drone,may treat,heart failure,incorrect,manual_curated,cardiology,Dronedarone is an antiarrhythmic for atrial fibrillation and is actually contraindicated in severe heart failure (NYHA class IV).
+peptic ulcer disease,may cause,pancreatitis,incorrect,manual_curated,gastroenterology,Peptic ulcer disease and pancreatitis are distinct conditions; PUD does not cause pancreatitis despite both involving abdominal pain.
+lindane,may treat,bacterial pneumonia,incorrect,manual_curated,infectious,Lindane is a topical antiparasitic agent for lice and scabies with no antibacterial activity against pneumonia pathogens.
+ziprasidone,may cause,hypothyroidism,incorrect,manual_curated,endocrinology,Ziprasidone is an atypical antipsychotic that does not affect thyroid function and is not known to cause hypothyroidism.
+vincristine,may treat,metastatic breast cancer,edge,gpt4o,oncology,"Vincristine is used in some regimens for metastatic breast cancer, but not as a primary treatment."
+olaparib,may treat,BRCA-mutated pancreatic cancer,edge,gpt4o,oncology,"FDA-approved for BRCA-mutated pancreatic cancer as maintenance, but not for non-BRCA patients."
+tofacitinib 5 mg,may treat,refractory ulcerative colitis,edge,gpt4o,gastroenterology,Tofacitinib is used off-label for refractory ulcerative colitis in some cases.
+ceritinib,may treat,locally advanced non-small cell lung cancer,edge,gpt4o,oncology,"Ceritinib is used for ALK-positive NSCLC, but primarily in metastatic cases."
+buspirone,may cause,sedation,edge,gpt4o,psychiatry,"Buspirone may cause sedation in some patients, but it is not a common effect."
+venetoclax,may treat,chronic lymphocytic leukemia,edge,gpt4o,oncology,"Venetoclax is approved for CLL, but its use depends on specific genetic markers."
+olanzapine,may treat,chemotherapy-induced nausea,edge,gpt4o,oncology,"Olanzapine is used off-label for chemotherapy-induced nausea, but not as a first-line treatment."
+idribine,may treat,BRCA-mutated ovarian cancer,edge,gpt4o,oncology,Idelalisib is not standard for ovarian cancer but may be used in specific genetic contexts.
+diphenhydramine,may treat,insomnia,edge,gpt4o,neurology,"Diphenhydramine is used for insomnia, but not recommended due to anticholinergic effects."
+histrelin,may treat,prostate cancer,edge,gpt4o,oncology,"Histrelin is used for prostate cancer, but primarily in advanced stages."
+meningioma,may cause,headache,edge,gpt4o,neurology,"Meningiomas can cause headaches, but not all patients experience this symptom."
+complete blood count,may diagnose,iron deficiency anemia,edge,gpt4o,hematology,"A CBC can suggest iron deficiency anemia, but confirmation requires further testing."
+lemborexant,may treat,insomnia in elderly,edge,gpt4o,neurology,Lemborexant is approved for insomnia but requires caution in elderly due to fall risk.
+drone,may cause,QT prolongation,edge,gpt4o,cardiology,"Dronedarone can cause QT prolongation, but this effect is dose-dependent."
+serum prolactin measurement,may diagnose,pituitary adenoma,edge,gpt4o,endocrinology,"Elevated prolactin can suggest a pituitary adenoma, but imaging is needed for confirmation."
+ketoconazole,may treat,cushing's syndrome,edge,gpt4o,endocrinology,"Ketoconazole is used off-label for Cushing's syndrome, but not as a first-line treatment."
+olanzapine,may treat,treatment-resistant depression,edge,gpt4o,psychiatry,"Olanzapine is used as an adjunct for treatment-resistant depression, but not as monotherapy."
+ceritinib,may cause,QT prolongation,edge,gpt4o,oncology,"Ceritinib can cause QT prolongation, but this is a rare side effect."
+drone,may treat,atrial fibrillation,edge,gpt4o,cardiology,"Dronedarone is used for atrial fibrillation, but not in patients with severe heart failure."
+histrelin,may cause,hot flashes,edge,gpt4o,endocrinology,"Histrelin can cause hot flashes, but this is more common in women."
+olaparib,may cause,nausea,edge,gpt4o,oncology,"Olaparib can cause nausea, but this is dose-dependent and varies among patients."
+buspirone,may treat,generalized anxiety disorder,edge,gpt4o,psychiatry,"Buspirone is used for generalized anxiety disorder, but its effectiveness varies."
+idribine,may cause,diarrhea,edge,gpt4o,oncology,"Idelalisib can cause diarrhea, but this is more common at higher doses."
+vincristine,may cause,peripheral neuropathy,edge,gpt4o,oncology,"Vincristine can cause peripheral neuropathy, but this is dose-dependent."
+venetoclax,may cause,tumor lysis syndrome,edge,gpt4o,oncology,"Venetoclax can cause tumor lysis syndrome, but this risk is managed with prophylaxis."
+olanzapine,may cause,weight gain,edge,gpt4o,psychiatry,"Olanzapine can cause weight gain, but this varies among individuals."
+idribine,may treat,chronic lymphocytic leukemia,edge,gpt4o,oncology,"Idelalisib is used for CLL, but only in specific genetic contexts."
+drone,may cause,bradycardia,edge,gpt4o,cardiology,"Dronedarone can cause bradycardia, but this is more common in certain populations."
+serum prolactin measurement,may diagnose,hyperprolactinemia,edge,gpt4o,endocrinology,"Serum prolactin measurement can indicate hyperprolactinemia, but further evaluation is needed."
+vincristine,may treat,hodgkin's lymphoma,edge,gpt4o,oncology,"Vincristine is part of some regimens for Hodgkin's lymphoma, but not used alone."
+menopause,may cause,skin rash,incorrect,kg_permuted,dermatology,Permuted from KG edges: (skin rash→skin rash) x (menopause→sweating)
+trypanosomiasis,ddx,hypersensitivity pneumonitis,incorrect,kg_permuted,infectious,Permuted from KG edges: (asbestosis→hypersensitivity pneumonitis) x (trypanosomiasis→pediatric gastroesophageal reflux)
+hepatic hemangiomas,may cause,mortality,incorrect,kg_permuted,gastroenterology,Permuted from KG edges: (patau syndrome→mortality) x (hepatic hemangiomas→abdominal mass)
+amitriptyline,may treat,psoriatic arthritis,incorrect,kg_permuted,rheumatology,Permuted from KG edges: (amitriptyline→metabolic neuropathy) x (tofacitinib 5 mg→psoriatic arthritis)
+intracranial epidural abscess,ddx,hypersensitivity pneumonitis,incorrect,kg_permuted,neurology,Permuted from KG edges: (asbestosis→hypersensitivity pneumonitis) x (intracranial epidural abscess→hydrocephalus)
+statins,may treat,influenza,incorrect,kg_permuted,cardiology,Permuted from KG edges: (chemoprophylaxis→influenza) x (statins→membranous glomerulonephritis)
+amitriptyline,may treat,panic disorder,incorrect,kg_permuted,psychiatry,Permuted from KG edges: (amitriptyline→metabolic neuropathy) x (current treatment strategy→panic disorder)
+fluocinolone intravitreal implant,has adverse effect,palpitations,incorrect,kg_permuted,ophthalmology,Permuted from KG edges: (fluocinolone intravitreal implant→eye inflammation) x (nylidrin→palpitations)
+serum prolactin measurement,may diagnose,heart disease,incorrect,kg_permuted,cardiology,Permuted from KG edges: (serum prolactin measurement→posttraumatic epilepsy) x (ekg→heart disease)
+lindane,has adverse effect,confusion,correct,kg_permuted_expert_reviewed,dermatology,Originally permuted (cephalexin→confusion x lindane→ataxia) but expert-verified: lindane CNS toxicity can cause confusion
+hetastarch,has adverse effect,diarrhea,incorrect,kg_permuted,hematology,Permuted from KG edges: (hetastarch→myalgia) x (ceritinib→diarrhea)
+cerliponase alfa,has adverse effect,palpitations,edge,kg_permuted_expert_reviewed,neurology,"UpToDate: cardiovascular adverse reactions noted (hypotension up to 8h post-infusion; caution with bradycardia/conduction disorder/structural heart disease; EKG monitoring required). Palpitations not explicitly listed but clinically plausible within documented cardiovascular signal — edge case."
+peak flow,may diagnose,biotinidase deficiency,incorrect,kg_permuted,pulmonology,Permuted from KG edges: (peak flow→status asthmaticus) x (positron emission tomography→biotinidase deficiency)
+grapefruit,contraindication,acetazolamide,incorrect,kg_permuted,pharmacology,Permuted from KG edges: (grapefruit→naloxegol) x (liver disease→acetazolamide)
+flibanserin,has adverse effect,nausea,correct,kg_permuted_expert_reviewed,psychiatry,Originally permuted (ferumoxytol→nausea x flibanserin→abdominal pain) but expert-verified: nausea is listed in FDA label for flibanserin (10.4% vs 3.9% placebo)
+high-resolution studies,may diagnose,neoplastic brachial plexopathy,incorrect,kg_permuted,neurology,Permuted from KG edges: (high-resolution studies→saphenous vein graft aneurysms) x (mr scanning→neoplastic brachial plexopathy)
+ziprasidone,contraindication,ifosfamide,incorrect,kg_permuted,psychiatry,Permuted from KG edges: (ziprasidone→ibutilide) x (measles vaccine→ifosfamide)
+ceritinib,has adverse effect,palpitations,correct,kg_permuted_expert_reviewed,oncology,Originally permuted (ceritinib→diarrhea x nylidrin→palpitations) but expert-verified: ceritinib causes QT prolongation which can manifest as palpitations
+liver disease,contraindication,desipramine,incorrect,kg_permuted,gastroenterology,Permuted from KG edges: (liver disease→acetazolamide) x (sotalol→desipramine)
+high-resolution studies,may diagnose,posttraumatic epilepsy,incorrect,kg_permuted,neurology,Permuted from KG edges: (high-resolution studies→saphenous vein graft aneurysms) x (serum prolactin measurement→posttraumatic epilepsy)
+hypertensive encephalopathy,ddx,pediatric pyelonephritis,incorrect,kg_permuted,pediatrics,Permuted from KG edges: (kawasaki disease→pediatric pyelonephritis) x (hypertensive encephalopathy→anxiety disorders)
+goodpasture syndrome,may cause,neonatal,incorrect,kg_permuted,pediatrics,Permuted from KG edges: (holocarboxylase synthetase deficiency→neonatal) x (goodpasture syndrome→malaise)
+panhypopituitarism,ddx,clonidine toxicity,incorrect,kg_permuted,endocrinology,Permuted from KG edges: (panhypopituitarism→congenital hypothyroidism) x (acute hypoglycemia→clonidine toxicity)
+ziconotide,interacts with,reishi,incorrect,kg_permuted,neurology,Permuted from KG edges: (argatroban→reishi) x (ziconotide→tapentadol)
+black hairy tongue,may cause,hypokalemia,incorrect,kg_permuted,dermatology,Permuted from KG edges: (black hairy tongue→tickling or gagging sensation) x (calcium channel blocker toxicity→hypokalemia)
+Metformin,may treat,Type 2 Diabetes,correct,gpt4o_supplement,endocrinology,Metformin is a first-line medication for the treatment of type 2 diabetes.
+Ibuprofen,has adverse effect,Gastric Ulcer,correct,gpt4o_supplement,gastroenterology,Ibuprofen can cause gastric ulcers as a side effect due to its NSAID properties.
+Warfarin,interacts with,Vitamin K,correct,gpt4o_supplement,cardiology,Warfarin's anticoagulant effect is affected by Vitamin K intake.
+Amiodarone,may cause,Pulmonary Fibrosis,correct,gpt4o_supplement,pulmonology,Long-term use of Amiodarone can lead to pulmonary fibrosis.
+Methotrexate,contraindication,Pregnancy,correct,gpt4o_supplement,oncology,Methotrexate is teratogenic and contraindicated in pregnancy.
+Aspirin,may treat,Myocardial Infarction,correct,gpt4o_supplement,cardiology,Aspirin is used to reduce the risk of myocardial infarction due to its antiplatelet effect.
+Ciprofloxacin,may cause,Tendon Rupture,correct,gpt4o_supplement,infectious,Ciprofloxacin has been associated with an increased risk of tendon rupture.
+Levothyroxine,may treat,Hypothyroidism,correct,gpt4o_supplement,endocrinology,Levothyroxine is a standard treatment for hypothyroidism.
+Albuterol,may treat,Asthma,correct,gpt4o_supplement,pulmonology,Albuterol is a bronchodilator used to relieve asthma symptoms.
+Metformin,may cause,Hypoglycemia,incorrect,gpt4o_supplement,endocrinology,Metformin does not typically cause hypoglycemia as it does not increase insulin secretion.
+Ibuprofen,may treat,Hypertension,incorrect,gpt4o_supplement,cardiology,Ibuprofen is not used to treat hypertension and can actually increase blood pressure.
+Warfarin,may diagnose,Deep Vein Thrombosis,incorrect,gpt4o_supplement,cardiology,"Warfarin is used to treat, not diagnose, deep vein thrombosis."
+Amiodarone,may treat,Diabetes,incorrect,gpt4o_supplement,endocrinology,"Amiodarone is an antiarrhythmic, not used for diabetes treatment."
+Methotrexate,may cause,Hypothyroidism,incorrect,gpt4o_supplement,endocrinology,Methotrexate is not known to cause hypothyroidism.
+Aspirin,may diagnose,Stroke,incorrect,gpt4o_supplement,neurology,"Aspirin is used for prevention and treatment, not diagnosis, of stroke."
+Ciprofloxacin,may treat,Viral Infections,incorrect,gpt4o_supplement,infectious,Ciprofloxacin is an antibiotic and is ineffective against viral infections.
+Metformin,may treat,Polycystic Ovary Syndrome,edge,gpt4o_supplement,endocrinology,"Metformin is used off-label to treat PCOS, particularly in women with insulin resistance."
+Ibuprofen,has adverse effect,Renal Failure,edge,gpt4o_supplement,nephrology,"High doses or prolonged use of ibuprofen can lead to renal impairment, especially in susceptible individuals."
+Warfarin,may treat,Atrial Fibrillation,edge,gpt4o_supplement,cardiology,"Warfarin is used to prevent thromboembolism in patients with atrial fibrillation, not to treat the arrhythmia itself."
+Amiodarone,may cause,Thyroid Dysfunction,edge,gpt4o_supplement,endocrinology,Amiodarone can cause both hypo- and hyperthyroidism due to its iodine content.
+Methotrexate,may treat,Rheumatoid Arthritis,edge,gpt4o_supplement,rheumatology,Methotrexate is a disease-modifying antirheumatic drug (DMARD) used in rheumatoid arthritis.
+Aspirin,may cause,Reye's Syndrome,edge,gpt4o_supplement,pediatrics,Aspirin is associated with Reye's syndrome when given to children with viral infections.
+Ciprofloxacin,contraindication,Pregnancy,edge,gpt4o_supplement,infectious,Ciprofloxacin is generally avoided in pregnancy due to potential risks to the fetus.
+Levothyroxine,may treat,Depression,edge,gpt4o_supplement,psychiatry,Levothyroxine may improve mood in patients with depression secondary to hypothyroidism.
+Albuterol,may cause,Tachycardia,edge,gpt4o_supplement,cardiology,"Albuterol can cause tachycardia as a side effect, especially at higher doses."
+Metformin,may treat,Obesity,edge,gpt4o_supplement,endocrinology,Metformin is sometimes used off-label for weight management in obese patients with insulin resistance.
+Ibuprofen,may cause,Hypertension,edge,gpt4o_supplement,cardiology,Chronic use of NSAIDs like ibuprofen can lead to increased blood pressure.
+Warfarin,interacts with,Amiodarone,edge,gpt4o_supplement,cardiology,"Amiodarone can increase the anticoagulant effect of warfarin, requiring dose adjustment."
+Amiodarone,may treat,Ventricular Tachycardia,edge,gpt4o_supplement,cardiology,"Amiodarone is used to treat life-threatening ventricular tachycardia, but its use is limited by side effects."
+Methotrexate,may cause,Liver Toxicity,edge,gpt4o_supplement,hepatology,"Methotrexate can cause liver toxicity, especially with long-term use."
+Aspirin,may treat,Pre-eclampsia,edge,gpt4o_supplement,obstetrics,Low-dose aspirin is used to prevent pre-eclampsia in high-risk pregnancies.
+Ciprofloxacin,may treat,Complicated Urinary Tract Infections,edge,gpt4o_supplement,infectious,"Ciprofloxacin is used to treat complicated UTIs, but resistance is a concern."
+Levothyroxine,may cause,Osteoporosis,edge,gpt4o_supplement,endocrinology,Excessive doses of levothyroxine can lead to decreased bone density.
+Albuterol,may treat,COPD,edge,gpt4o_supplement,pulmonology,"Albuterol is used to relieve symptoms of COPD, but not as a primary treatment."
+Metformin,may cause,Lactic Acidosis,edge,gpt4o_supplement,endocrinology,"Metformin can cause lactic acidosis, particularly in patients with renal impairment."
+bevacizumab,may treat,metastatic colorectal cancer,edge,manual,oncology,Bevacizumab is approved for metastatic CRC but the modifier 'metastatic' changes the indication scope.
+Atorvastatin,may cause,myopathy,correct,gpt4o_t2b,cardiology,"Atorvastatin, a statin, can lead to muscle-related side effects, including myopathy."
+Clopidogrel,has adverse effect,bleeding,correct,gpt4o_t2b,cardiology,"Clopidogrel inhibits platelet aggregation, increasing the risk of bleeding as a side effect."
+Lisinopril,contraindication,pregnancy,correct,gpt4o_t2b,cardiology,Lisinopril is an ACE inhibitor contraindicated in pregnancy due to the risk of fetal toxicity.
+Echocardiogram,may diagnose,heart failure,correct,gpt4o_t2b,cardiology,"An echocardiogram can assess cardiac function and structure, aiding in the diagnosis of heart failure."
+Beta-blockers,ddx,bradycardia,correct,gpt4o_t2b,cardiology,"Bradycardia should be differentiated from the effects of beta-blocker therapy, which can slow heart rate."
+Nitroglycerin,may treat,angina pectoris,correct,gpt4o_t2b,cardiology,"Nitroglycerin dilates blood vessels, reducing myocardial oxygen demand and relieving angina symptoms."
+Dofetilide,has adverse effect,QT prolongation,correct,gpt4o_t2b,cardiology,"Dofetilide can prolong the QT interval, potentially leading to torsades de pointes, a serious arrhythmia."
+spironolactone,may treat,heart failure with preserved ejection fraction,edge,gpt4o_t2b,cardiology,"Spironolactone may improve symptoms in some patients with heart failure with preserved ejection fraction, although its efficacy is not universally established."
+ibuprofen,may cause,worsening heart failure,edge,gpt4o_t2b,cardiology,"Ibuprofen can cause fluid retention which may exacerbate heart failure, particularly in patients with compromised cardiac function."
+metoprolol,has adverse effect,bradycardia,edge,gpt4o_t2b,cardiology,"Metoprolol may induce bradycardia, especially when used in high doses or in patients with an underlying conduction abnormality."
+diltiazem,contraindication,sick sinus syndrome,edge,gpt4o_t2b,cardiology,Diltiazem is contraindicated in sick sinus syndrome due to its potential to exacerbate the condition unless a functioning pacemaker is present.
+clopidogrel,interacts with,omeprazole,edge,gpt4o_t2b,cardiology,Clopidogrel's antiplatelet effect may be reduced when taken with omeprazole due to cytochrome P450 enzyme inhibition.
+ranolazine,may treat,chronic angina,edge,gpt4o_t2b,cardiology,Ranolazine is effective as an adjunctive therapy for chronic angina in patients who remain symptomatic despite standard treatment.
+sotalol,may cause,torsades de pointes,edge,gpt4o_t2b,cardiology,"Sotalol can prolong the QT interval, leading to torsades de pointes in susceptible individuals, particularly at higher doses."
+digoxin,has adverse effect,visual disturbances,edge,gpt4o_t2b,cardiology,"Digoxin toxicity can cause visual disturbances, such as blurred or yellow vision, especially in cases of overdose or renal impairment."
+verapamil,contraindication,severe left ventricular dysfunction,edge,gpt4o_t2b,cardiology,Verapamil is contraindicated in patients with severe left ventricular dysfunction due to its negative inotropic effect which can worsen heart failure.
+Atorvastatin,may diagnose,Atrial Fibrillation,incorrect,gpt4o_t2b,cardiology,Atorvastatin is a cholesterol-lowering medication and does not have diagnostic capabilities for conditions like atrial fibrillation.
+Echocardiogram,may treat,Hypertension,incorrect,gpt4o_t2b,cardiology,An echocardiogram is a diagnostic tool for assessing heart conditions and cannot treat hypertension.
+Warfarin,contraindication,Myocardial Infarction,incorrect,gpt4o_t2b,cardiology,Warfarin is an anticoagulant used in atrial fibrillation to prevent strokes; it is not contraindicated in myocardial infarction but often used carefully.
+Metoprolol,has adverse effect,Coronary Artery Disease,incorrect,gpt4o_t2b,cardiology,Metoprolol is a beta-blocker used in treating coronary artery disease rather than having it as an adverse effect.
+Aspirin,interacts with,Losartan,edge,gpt4o_t2b,cardiology,"NSAIDs can attenuate ARB efficacy and additively affect renal hemodynamics; interaction severity is patient- and dose-dependent. Not a clean 'no interaction' vs major DDI binary — conditional edge case."
+Heart Catheterization,ddx,Pulmonary Embolism,incorrect,gpt4o_t2b,cardiology,Heart catheterization is used to assess coronary artery disease but not typically for the differential diagnosis of pulmonary embolism.
+Amiodarone,may cause,Mitral Valve Prolapse,incorrect,gpt4o_t2b,cardiology,Amiodarone is an antiarrhythmic used to treat arrhythmias and does not cause structural heart valve conditions like mitral valve prolapse.
+Troponin Test,contraindication,Heart Failure,incorrect,gpt4o_t2b,cardiology,The troponin test is a diagnostic measure used to assess myocardial injury and is not contraindicated in heart failure.
+Adalimumab,may treat,Psoriasis,correct,gpt4o_t2b,dermatology,Adalimumab is a TNF-alpha inhibitor that reduces inflammation associated with psoriasis.
+Isotretinoin,has adverse effect,Dry skin,correct,gpt4o_t2b,dermatology,"Isotretinoin, used for severe acne, often causes dry skin as a side effect."
+Biopsy,may diagnose,Melanoma,correct,gpt4o_t2b,dermatology,A biopsy involves taking a sample of skin tissue to confirm or rule out melanoma.
+Doxycycline,contraindication,Pregnancy,correct,gpt4o_t2b,dermatology,Doxycycline is contraindicated in pregnancy due to risks of fetal harm.
+Methotrexate,interacts with,Trimethoprim,correct,gpt4o_t2b,dermatology,Methotrexate and trimethoprim can cause additive bone marrow suppression.
+Patch testing,may diagnose,Contact dermatitis,correct,gpt4o_t2b,dermatology,Patch testing helps identify allergens responsible for contact dermatitis.
+Hydrochlorothiazide,may cause,Photosensitivity,correct,gpt4o_t2b,dermatology,Hydrochlorothiazide can increase the skin's sensitivity to sunlight.
+Rosacea,ddx,Lupus erythematosus,correct,gpt4o_t2b,dermatology,"Rosacea and lupus erythematosus both cause facial redness, requiring differential diagnosis."
+Metformin,may treat,Hidradenitis Suppurativa,edge,gpt4o_t2b,dermatology,"Metformin may help reduce inflammation and lesions in patients with Hidradenitis Suppurativa, particularly those with coexisting insulin resistance."
+Isotretinoin,has adverse effect,Cheilitis,edge,gpt4o_t2b,dermatology,"Cheilitis, or inflammation of the lips, is a common adverse effect of isotretinoin, typically dose-dependent and related to its drying effects."
+Psoralen,contraindication,Lupus Erythematosus,edge,gpt4o_t2b,dermatology,Psoralen is contraindicated in patients with Lupus Erythematosus due to the risk of exacerbating photosensitivity.
+Clobetasol Propionate,may treat,Lichen Planus,edge,gpt4o_t2b,dermatology,"Clobetasol Propionate, a potent topical corticosteroid, may be used to manage symptoms of Lichen Planus, particularly severe cases with mucosal involvement."
+Doxycycline,has adverse effect,Hyperpigmentation,edge,gpt4o_t2b,dermatology,"Chronic use of Doxycycline can lead to hyperpigmentation, especially in sun-exposed areas, due to its photosensitizing properties."
+Tacrolimus,interacts with,Cyclosporine,edge,gpt4o_t2b,dermatology,"Co-administration of Tacrolimus and Cyclosporine can increase the risk of nephrotoxicity and other immunosuppressive effects, requiring careful monitoring."
+UVB Phototherapy,contraindication,Xeroderma Pigmentosum,edge,gpt4o_t2b,dermatology,"UVB Phototherapy is contraindicated in patients with Xeroderma Pigmentosum due to their inability to repair UV-induced DNA damage, increasing cancer risk."
+Hydrochlorothiazide,may cause,Psoriasis,edge,gpt4o_t2b,dermatology,"Hydrochlorothiazide has been reported to induce or exacerbate psoriasis in susceptible patients, but the association is uncommon and context-dependent."
+Methotrexate,contraindication,Alopecia Areata,incorrect,gpt4o_t2b,dermatology,Methotrexate is not contraindicated in alopecia areata and is sometimes used as a treatment for severe cases.
+Salicylic Acid,may diagnose,Melanoma,incorrect,gpt4o_t2b,dermatology,"Salicylic acid is a keratolytic agent used in treatment, not diagnosis, and cannot diagnose melanoma."
+Tretinoin,has adverse effect,Epidermolysis Bullosa,incorrect,gpt4o_t2b,dermatology,"Tretinoin may cause skin irritation but is not associated with worsening or causing Epidermolysis Bullosa, a genetic blistering disorder."
+Allopurinol,interacts with,Hydroxyzine,incorrect,gpt4o_t2b,dermatology,Allopurinol and hydroxyzine do not have a known pharmacological interaction affecting dermatological conditions.
+Phototherapy,ddx,Basal Cell Carcinoma,incorrect,gpt4o_t2b,dermatology,"Phototherapy is a treatment modality, not a diagnostic tool, and cannot differentiate basal cell carcinoma from other conditions."
+Isotretinoin,may treat,Vitiligo,incorrect,gpt4o_t2b,dermatology,"Isotretinoin is used for severe acne and is not effective in treating vitiligo, which involves pigment loss."
+Ketoconazole,may cause,Erythema Multiforme,edge,gpt4o_t2b,dermatology,Ketoconazole has rare reports of serious cutaneous hypersensitivity reactions; erythema multiforme association is uncommon but not definitively absent.
+Metformin,may treat,Type 2 Diabetes Mellitus,correct,gpt4o_t2b,endocrinology,Metformin is a first-line medication commonly used to improve blood glucose control in patients with type 2 diabetes.
+Levothyroxine,may cause,Hyperthyroidism,correct,gpt4o_t2b,endocrinology,Excessive doses of levothyroxine can lead to symptoms of hyperthyroidism due to increased thyroid hormone levels.
+Insulin,has adverse effect,Hypoglycemia,correct,gpt4o_t2b,endocrinology,"Insulin therapy can lead to hypoglycemia, a condition characterized by abnormally low blood glucose levels."
+Radioactive Iodine,contraindication,Pregnancy,correct,gpt4o_t2b,endocrinology,Radioactive iodine treatment is contraindicated in pregnancy due to the risk of fetal thyroid damage.
+Prednisone,may cause,Cushing's Syndrome,correct,gpt4o_t2b,endocrinology,Long-term use of prednisone can lead to Cushing's syndrome due to its glucocorticoid effects.
+Thyroid-Stimulating Hormone (TSH) Test,may diagnose,Hypothyroidism,correct,gpt4o_t2b,endocrinology,"The TSH test is commonly used to diagnose hypothyroidism by measuring TSH levels, which are typically elevated in this condition."
+Liraglutide,may treat,Obesity,correct,gpt4o_t2b,endocrinology,Liraglutide is approved for the treatment of obesity as it can promote weight loss by reducing appetite and caloric intake.
+Lithium,interacts with,Levothyroxine,correct,gpt4o_t2b,endocrinology,"Lithium can interfere with thyroid hormone synthesis and metabolism, potentially necessitating dosage adjustments of levothyroxine."
+ACTH Stimulation Test,may diagnose,Adrenal Insufficiency,correct,gpt4o_t2b,endocrinology,The ACTH stimulation test is used to assess adrenal gland function and diagnose adrenal insufficiency.
+glucocorticoids,may cause,adrenal insufficiency,edge,gpt4o_t2b,endocrinology,"Prolonged use of glucocorticoids can suppress the hypothalamic-pituitary-adrenal axis, leading to adrenal insufficiency upon withdrawal."
+thyroidectomy,has adverse effect,hypocalcemia,edge,gpt4o_t2b,endocrinology,"Thyroidectomy can inadvertently remove or damage the parathyroid glands, leading to hypocalcemia due to low parathyroid hormone levels."
+sitagliptin,contraindication,type 1 diabetes,edge,gpt4o_t2b,endocrinology,"Sitagliptin is not recommended for type 1 diabetes as it requires functioning pancreatic beta-cells, which are absent in type 1 diabetes."
+levothyroxine,interacts with,calcium carbonate,edge,gpt4o_t2b,endocrinology,"Calcium carbonate can reduce the absorption of levothyroxine, necessitating separation of administration times."
+rosiglitazone,may cause,heart failure,edge,gpt4o_t2b,endocrinology,"Rosiglitazone may exacerbate fluid retention, increasing the risk of heart failure in susceptible patients."
+bromocriptine,may treat,acromegaly,edge,gpt4o_t2b,endocrinology,"In some patients with acromegaly, bromocriptine can lower growth hormone levels, providing symptomatic relief."
+mifepristone,has adverse effect,adrenal crisis,edge,gpt4o_t2b,endocrinology,"Mifepristone can block cortisol receptors, potentially precipitating an adrenal crisis in patients with adrenal insufficiency."
+cabergoline,interacts with,erythromycin,edge,gpt4o_t2b,endocrinology,"Erythromycin can increase cabergoline levels by inhibiting its metabolism, raising the risk of adverse effects."
+Metformin,may diagnose,Type 2 Diabetes,incorrect,gpt4o_t2b,endocrinology,"Metformin is a medication used to treat Type 2 Diabetes, not to diagnose it."
+Cortisol,contraindication,Addison's Disease,incorrect,gpt4o_t2b,endocrinology,"Cortisol is a treatment for Addison's Disease, not contraindicated in it."
+Insulin,interacts with,Thyroid Function Tests,incorrect,gpt4o_t2b,endocrinology,"Insulin does not interact with thyroid function tests as they measure thyroid hormone levels, not glucose metabolism."
+Dexamethasone,has adverse effect,Cushing's Syndrome,correct,gpt4o_t2b,endocrinology,"Prolonged or high-dose dexamethasone exposure can cause iatrogenic Cushing's syndrome, a well-documented glucocorticoid adverse effect."
+Thyroid Ultrasound,may treat,Graves' Disease,incorrect,gpt4o_t2b,endocrinology,"Thyroid ultrasound is a diagnostic tool, not a treatment for Graves' Disease."
+Hydrocortisone,ddx,Diabetes Insipidus,incorrect,gpt4o_t2b,endocrinology,Hydrocortisone is used to treat adrenal insufficiency and does not differentiate diabetes insipidus from other conditions.
+Glipizide,may cause,Hypothyroidism,incorrect,gpt4o_t2b,endocrinology,"Glipizide is an oral hypoglycemic agent affecting blood sugar levels, not thyroid function."
+Omeprazole,may treat,Gastroesophageal reflux disease,correct,gpt4o_t2b,gastroenterology,"Omeprazole is a proton pump inhibitor that reduces stomach acid production, alleviating symptoms of GERD."
+NSAIDs,may cause,Peptic ulcer disease,correct,gpt4o_t2b,gastroenterology,"Nonsteroidal anti-inflammatory drugs can damage the gastric mucosa, leading to ulcer formation."
+Metoclopramide,has adverse effect,Tardive dyskinesia,correct,gpt4o_t2b,gastroenterology,"Long-term use of Metoclopramide can lead to tardive dyskinesia, a serious movement disorder."
+Cirrhosis,contraindication,Liver biopsy,correct,gpt4o_t2b,gastroenterology,"In advanced cirrhosis, a liver biopsy may pose a high risk of bleeding and is often contraindicated."
+Ciprofloxacin,interacts with,Theophylline,correct,gpt4o_t2b,gastroenterology,"Ciprofloxacin can inhibit the metabolism of Theophylline, leading to increased levels and potential toxicity."
+Pancreatitis,ddx,Cholecystitis,correct,gpt4o_t2b,gastroenterology,"Pancreatitis and cholecystitis can present with similar abdominal pain, requiring differential diagnosis."
+Fecal occult blood test,may diagnose,Colorectal cancer,correct,gpt4o_t2b,gastroenterology,"A positive fecal occult blood test may indicate gastrointestinal bleeding, which can be associated with colorectal cancer."
+Lactulose,may treat,Hepatic encephalopathy,correct,gpt4o_t2b,gastroenterology,"Lactulose reduces ammonia levels in the blood, helping to manage hepatic encephalopathy symptoms."
+Metformin,may treat,Non-alcoholic fatty liver disease,edge,gpt4o_t2b,gastroenterology,"Metformin may improve liver function tests in patients with non-alcoholic fatty liver disease, but its efficacy is not universally established."
+Proton pump inhibitors,may cause,Small intestinal bacterial overgrowth,edge,gpt4o_t2b,gastroenterology,Long-term use of proton pump inhibitors can lead to small intestinal bacterial overgrowth by altering gastric acidity.
+Lactulose,has adverse effect,Bloating,edge,gpt4o_t2b,gastroenterology,"In treating hepatic encephalopathy, lactulose can cause bloating as a side effect due to increased gas production."
+Azathioprine,contraindication,Thiopurine methyltransferase deficiency,edge,gpt4o_t2b,gastroenterology,Azathioprine is contraindicated in patients with thiopurine methyltransferase deficiency due to the risk of severe myelosuppression.
+Rifaximin,may treat,Irritable bowel syndrome with diarrhea,edge,gpt4o_t2b,gastroenterology,"Rifaximin may reduce symptoms in patients with IBS-D, though its effectiveness can vary and is not suitable for all IBS types."
+Orlistat,has adverse effect,Steatorrhea,edge,gpt4o_t2b,gastroenterology,Orlistat can cause steatorrhea as an adverse effect due to its mechanism of inhibiting fat absorption.
+Ursodeoxycholic acid,may treat,Primary biliary cholangitis,edge,gpt4o_t2b,gastroenterology,"Ursodeoxycholic acid is conditionally effective in slowing disease progression in primary biliary cholangitis, particularly in early-stage disease."
+Ciprofloxacin,interacts with,Metoclopramide,edge,gpt4o_t2b,gastroenterology,"Ciprofloxacin may have an increased risk of QT prolongation when used concurrently with metoclopramide, especially in susceptible individuals."
+Vedolizumab,contraindication,Active serious infections,edge,gpt4o_t2b,gastroenterology,Vedolizumab is contraindicated in patients with active serious infections due to the risk of exacerbating these conditions.
+omeprazole,may diagnose,irritable bowel syndrome,incorrect,gpt4o_t2b,gastroenterology,"Omeprazole is a proton pump inhibitor used to treat acid-related disorders, not to diagnose irritable bowel syndrome."
+metformin,may cause,peptic ulcer,incorrect,gpt4o_t2b,gastroenterology,"Metformin is an antidiabetic medication and does not cause peptic ulcers, which are typically associated with NSAIDs or H. pylori infection."
+colonoscopy,has adverse effect,esophageal varices,incorrect,gpt4o_t2b,gastroenterology,"Colonoscopy is a procedure for examining the colon and does not cause esophageal varices, which are related to liver disease."
+lactulose,contraindication,Crohn's disease,incorrect,gpt4o_t2b,gastroenterology,"Lactulose is used for hepatic encephalopathy and constipation, and is not contraindicated in Crohn's disease."
+ranitidine,interacts with,mesalamine,incorrect,gpt4o_t2b,gastroenterology,"Ranitidine, an H2 blocker, and mesalamine, an anti-inflammatory for ulcerative colitis, do not have any significant interaction."
+endoscopy,ddx,pancreatitis,incorrect,gpt4o_t2b,gastroenterology,"Endoscopy is used to visualize the gastrointestinal tract, but pancreatitis is diagnosed primarily through imaging and lab tests."
+prednisone,may treat,celiac disease,edge,gpt4o_t2b,gastroenterology,"Gluten-free diet is the primary treatment for typical celiac disease, but glucocorticoids (including prednisone) are traditionally used for refractory celiac disease (refractory sprue) per UpToDate. Subtype-dependent edge case."
+barium swallow,may cause,liver cirrhosis,incorrect,gpt4o_t2b,gastroenterology,A barium swallow is a diagnostic test for the esophagus and does not cause liver damage or cirrhosis.
+Hydroxyurea,may treat,Sickle Cell Anemia,correct,gpt4o_t2b,hematology,"Hydroxyurea increases fetal hemoglobin levels, which reduces the frequency of sickle cell crises."
+Heparin,may cause,Heparin-Induced Thrombocytopenia,correct,gpt4o_t2b,hematology,"Heparin can trigger an immune response leading to a decrease in platelet counts, known as heparin-induced thrombocytopenia."
+Warfarin,has adverse effect,Bleeding,correct,gpt4o_t2b,hematology,Warfarin is an anticoagulant that can increase the risk of bleeding due to its blood-thinning effects.
+Anagrelide,contraindication,Severe Hepatic Impairment,correct,gpt4o_t2b,hematology,Anagrelide is contraindicated in patients with severe hepatic impairment due to increased risk of adverse effects.
+Aspirin,interacts with,Clopidogrel,correct,gpt4o_t2b,hematology,Aspirin and clopidogrel together can increase the risk of bleeding due to their additive antiplatelet effects.
+Vitamin B12 Deficiency,ddx,Folate Deficiency,correct,gpt4o_t2b,hematology,Both vitamin B12 and folate deficiencies can cause macrocytic anemia and must be differentiated through specific testing.
+Coombs Test,may diagnose,Autoimmune Hemolytic Anemia,correct,gpt4o_t2b,hematology,"The Coombs test detects antibodies against red blood cells, helping diagnose autoimmune hemolytic anemia."
+Rivaroxaban,contraindication,Active Bleeding,correct,gpt4o_t2b,hematology,Rivaroxaban is contraindicated in patients with active bleeding due to its anticoagulant effects that could exacerbate the condition.
+Rivaroxaban,may cause,Thrombocytopenia,edge,gpt4o_t2b,hematology,"Rivaroxaban, an anticoagulant, can lead to thrombocytopenia as a rare adverse reaction, especially in patients with pre-existing hematological disorders."
+Erythropoietin,has adverse effect,Hypertension,edge,gpt4o_t2b,hematology,Use of erythropoietin for anemia can increase blood pressure; this effect is more pronounced in patients with chronic kidney disease.
+Warfarin,contraindication,Hemophilia,edge,gpt4o_t2b,hematology,Warfarin is contraindicated in patients with hemophilia due to the high risk of uncontrolled bleeding.
+Tranexamic Acid,may treat,Menorrhagia,edge,gpt4o_t2b,hematology,"Tranexamic acid is used off-label to reduce heavy menstrual bleeding, particularly in women with underlying bleeding disorders."
+Methotrexate,has adverse effect,Bone Marrow Suppression,edge,gpt4o_t2b,hematology,"Methotrexate, used in low doses for rheumatoid arthritis or higher doses for cancer, can cause bone marrow suppression, necessitating regular blood count monitoring."
+Lenalidomide,may cause,Neutropenia,edge,gpt4o_t2b,hematology,"In patients with multiple myeloma, lenalidomide can cause neutropenia, particularly when combined with other myelosuppressive therapies."
+Heparin,may diagnose,Hemophilia A,incorrect,gpt4o_t2b,hematology,"Heparin is an anticoagulant used for preventing blood clots, not a diagnostic tool for Hemophilia A, which is diagnosed with specific blood tests measuring clotting factors."
+Warfarin,has adverse effect,Polycythemia Vera,incorrect,gpt4o_t2b,hematology,"Warfarin is an anticoagulant that does not induce Polycythemia Vera, a condition characterized by excessive red blood cell production, and is not related to anticoagulant therapy."
+Iron supplements,contraindication,Thalassemia,edge,gpt4o_t2b,hematology,"UpToDate: prudent for thalassemia patients to avoid iron-containing supplements unless they have documented iron deficiency. Relative contraindication with exception, not absolute — iron replacement therapy is appropriate for true iron deficiency anemia."
+Rivaroxaban,interacts with,Vitamin B12,incorrect,gpt4o_t2b,hematology,"Rivaroxaban, an anticoagulant, does not interact with Vitamin B12, a nutrient important for red blood cell production, as they operate through entirely different pathways."
+Erythropoietin,ddx,Sickle Cell Anemia,incorrect,gpt4o_t2b,hematology,"Erythropoietin is a hormone that stimulates red blood cell production and is not used in the differential diagnosis of Sickle Cell Anemia, which is diagnosed through hemoglobin electrophoresis."
+Folic Acid,may cause,Leukemia,incorrect,gpt4o_t2b,hematology,"Folic acid is a B vitamin that helps with cell growth and does not cause leukemia, a cancer of blood-forming tissues, as it is not a carcinogenic agent."
+Hydroxyurea,may treat,Deep Vein Thrombosis,incorrect,gpt4o_t2b,hematology,"Hydroxyurea is primarily used to treat conditions like Sickle Cell Anemia and certain leukemias, not Deep Vein Thrombosis, which is managed with anticoagulants."
+Clopidogrel,may diagnose,Anemia,incorrect,gpt4o_t2b,hematology,"Clopidogrel is an antiplatelet medication used to prevent blood clots and does not have diagnostic capabilities for anemia, which requires blood tests to identify."
+Amoxicillin,may treat,Streptococcal pharyngitis,correct,gpt4o_t2b,infectious,"Amoxicillin is a penicillin antibiotic effective against streptococcal bacteria, commonly used to treat strep throat."
+Gentamicin,has adverse effect,Ototoxicity,correct,gpt4o_t2b,infectious,"Gentamicin, an aminoglycoside antibiotic, can cause ototoxicity, leading to hearing loss, especially with prolonged use."
+Ciprofloxacin,contraindication,Myasthenia gravis,correct,gpt4o_t2b,infectious,"Ciprofloxacin can exacerbate muscle weakness in patients with myasthenia gravis, making it a contraindicated medication for them."
+Rifampin,interacts with,Warfarin,correct,gpt4o_t2b,infectious,"Rifampin induces liver enzymes that metabolize warfarin, reducing its anticoagulant effect and requiring dose adjustments."
+HIV,ddx,Mononucleosis,correct,gpt4o_t2b,infectious,"HIV and mononucleosis can present with similar symptoms such as fever and lymphadenopathy, making differential diagnosis necessary."
+Tuberculin skin test,may diagnose,Latent tuberculosis,correct,gpt4o_t2b,infectious,The tuberculin skin test is used to identify latent tuberculosis infections by eliciting a delayed-type hypersensitivity reaction.
+Vancomycin,may cause,Red man syndrome,correct,gpt4o_t2b,infectious,"Rapid infusion of vancomycin can cause red man syndrome, characterized by flushing and rash due to histamine release."
+Acyclovir,may treat,Herpes simplex virus infection,correct,gpt4o_t2b,infectious,Acyclovir is an antiviral drug effective in treating infections caused by the herpes simplex virus.
+Nitrofurantoin,contraindication,Renal impairment,correct,gpt4o_t2b,infectious,Nitrofurantoin is contraindicated in patients with significant renal impairment due to reduced drug efficacy and increased risk of toxicity.
+Doxycycline,may treat,Malaria,edge,gpt4o_t2b,infectious,Doxycycline is used for malaria prophylaxis in travelers to areas with chloroquine-resistant P. falciparum.
+Amoxicillin,may cause,Clostridioides difficile infection,edge,gpt4o_t2b,infectious,"Amoxicillin can disrupt normal gut flora, potentially leading to C. difficile overgrowth and infection."
+Oseltamivir,has adverse effect,Neuropsychiatric symptoms,edge,gpt4o_t2b,infectious,Oseltamivir has been associated with neuropsychiatric symptoms in some pediatric patients during influenza treatment.
+Rifampin,contraindication,HIV protease inhibitors,edge,gpt4o_t2b,infectious,"Rifampin induces cytochrome P450 enzymes, significantly reducing the effectiveness of HIV protease inhibitors."
+Azithromycin,interacts with,Warfarin,edge,gpt4o_t2b,infectious,"Azithromycin can increase the anticoagulant effect of warfarin by inhibiting its metabolism, leading to increased bleeding risk."
+Metronidazole,may treat,Helicobacter pylori infection,edge,gpt4o_t2b,infectious,"Metronidazole is part of combination therapy for H. pylori eradication, particularly in patients with penicillin allergy."
+Tenofovir,may cause,Renal toxicity,edge,gpt4o_t2b,infectious,"Tenofovir can cause renal toxicity, particularly in patients with pre-existing kidney disease or those taking other nephrotoxic drugs."
+Linezolid,has adverse effect,Serotonin syndrome,edge,gpt4o_t2b,infectious,Linezolid is a weak monoamine oxidase inhibitor and can precipitate serotonin syndrome when combined with SSRIs.
+Ciprofloxacin,contraindication,Pediatric patients,edge,gpt4o_t2b,infectious,Ciprofloxacin is generally contraindicated in pediatric patients due to the risk of tendon damage and arthropathy.
+Oseltamivir,may cause,bacterial pneumonia,incorrect,gpt4o_t2b,infectious,"Oseltamivir is an antiviral medication used to treat influenza, not a cause of bacterial infections like pneumonia."
+Tuberculosis,may diagnose,sputum culture,incorrect,gpt4o_t2b,infectious,"Sputum culture is a test used to diagnose tuberculosis, not something that tuberculosis itself can diagnose."
+HIV infection,contraindication,vitamin C supplementation,incorrect,gpt4o_t2b,infectious,There is no contraindication for vitamin C supplementation in patients with HIV infection.
+Ciprofloxacin,has adverse effect,common cold,incorrect,gpt4o_t2b,infectious,Ciprofloxacin is an antibiotic that does not have the adverse effect of causing viral illnesses like the common cold.
+Amoxicillin,may treat,influenza,incorrect,gpt4o_t2b,infectious,Amoxicillin is an antibiotic and is ineffective against viral infections such as influenza.
+Zidovudine,interacts with,ibuprofen,incorrect,gpt4o_t2b,infectious,"There are no known interactions between zidovudine, an antiretroviral, and ibuprofen, a common NSAID."
+Rapid antigen test,ddx,bacterial meningitis,incorrect,gpt4o_t2b,infectious,"Rapid antigen tests are typically used for viral infections like influenza, not for differentiating bacterial meningitis."
+Metronidazole,contraindication,viral hepatitis,incorrect,gpt4o_t2b,infectious,"Metronidazole is an antimicrobial used mainly for anaerobic bacterial and protozoal infections, not contraindicated in viral hepatitis."
+Losartan,may treat,Hypertension in chronic kidney disease,correct,gpt4o_t2b,nephrology,"Losartan is an angiotensin receptor blocker used to manage hypertension, especially in patients with chronic kidney disease."
+Gentamicin,may cause,Acute kidney injury,correct,gpt4o_t2b,nephrology,"Gentamicin is an aminoglycoside antibiotic that can cause nephrotoxicity, leading to acute kidney injury."
+Metformin,has adverse effect,Lactic acidosis,correct,gpt4o_t2b,nephrology,"Metformin can lead to lactic acidosis, especially in patients with renal impairment."
+NSAIDs,contraindication,Chronic kidney disease,correct,gpt4o_t2b,nephrology,NSAIDs can worsen renal function and are generally contraindicated in patients with chronic kidney disease.
+Ciprofloxacin,interacts with,Cyclosporine,correct,gpt4o_t2b,nephrology,"Ciprofloxacin can increase the serum levels of cyclosporine, potentially leading to nephrotoxicity."
+Renal ultrasound,may diagnose,Polycystic kidney disease,correct,gpt4o_t2b,nephrology,"Renal ultrasound is used to detect the presence of cysts in the kidneys, aiding in the diagnosis of polycystic kidney disease."
+Furosemide,may treat,Edema in nephrotic syndrome,correct,gpt4o_t2b,nephrology,Furosemide is a diuretic used to reduce edema associated with nephrotic syndrome.
+Hematuria,ddx,Glomerulonephritis,correct,gpt4o_t2b,nephrology,Hematuria is a common symptom that can suggest glomerulonephritis among other differential diagnoses.
+Sodium bicarbonate,may treat,metabolic acidosis,edge,gpt4o_t2b,nephrology,Sodium bicarbonate can be used to treat metabolic acidosis in patients with chronic kidney disease to help manage blood pH levels.
+Contrast dye,may cause,acute kidney injury,edge,gpt4o_t2b,nephrology,"In susceptible individuals, especially those with pre-existing renal impairment, contrast dye can cause contrast-induced nephropathy, leading to acute kidney injury."
+Spironolactone,has adverse effect,hyperkalemia,edge,gpt4o_t2b,nephrology,"Spironolactone can cause hyperkalemia, particularly in patients with renal impairment or those taking other potassium-sparing medications."
+Lithium,contraindication,chronic kidney disease,edge,gpt4o_t2b,nephrology,Lithium use is contraindicated in patients with severe chronic kidney disease due to the risk of nephrogenic diabetes insipidus and further renal deterioration.
+Metformin,interacts with,cimetidine,edge,gpt4o_t2b,nephrology,"Cimetidine can increase metformin levels by reducing renal clearance, raising the risk of lactic acidosis, especially in patients with renal impairment."
+Low-protein diet,may treat,proteinuria,edge,gpt4o_t2b,nephrology,"A low-protein diet may reduce proteinuria in patients with kidney disease, though its effectiveness can vary based on individual patient factors."
+Cyclosporine,has adverse effect,nephrotoxicity,edge,gpt4o_t2b,nephrology,"Cyclosporine can cause nephrotoxicity, particularly in high doses or prolonged use, leading to renal dysfunction in susceptible patients."
+Ibuprofen,contraindication,advanced renal failure,edge,gpt4o_t2b,nephrology,Ibuprofen is contraindicated in patients with advanced renal failure due to the risk of further renal impairment and acute kidney injury.
+Furosemide,may diagnose,Chronic Kidney Disease,incorrect,gpt4o_t2b,nephrology,"Furosemide is a loop diuretic used to manage fluid retention, not a diagnostic tool for chronic kidney disease."
+Metformin,may cause,Nephrotic Syndrome,incorrect,gpt4o_t2b,nephrology,"Metformin is an anti-diabetic medication and does not cause nephrotic syndrome, which is typically due to glomerular diseases."
+Polycystic Kidney Disease,may treat,Acute Pyelonephritis,incorrect,gpt4o_t2b,nephrology,Polycystic kidney disease is a genetic disorder and does not treat infections like acute pyelonephritis.
+Hemodialysis,contraindication,Hypokalemia,incorrect,gpt4o_t2b,nephrology,Hemodialysis is used to manage electrolyte imbalances and is not contraindicated; it can actually correct hypokalemia.
+Renal Biopsy,interacts with,Captopril,incorrect,gpt4o_t2b,nephrology,"Renal biopsy is a diagnostic procedure and does not pharmacologically interact with captopril, an ACE inhibitor."
+Hydrochlorothiazide,ddx,IgA Nephropathy,incorrect,gpt4o_t2b,nephrology,"Hydrochlorothiazide is a diuretic and is not used in the differential diagnosis of IgA nephropathy, which requires histopathological examination."
+Erythropoietin,has adverse effect,Nephrolithiasis,incorrect,gpt4o_t2b,nephrology,"Erythropoietin is used to treat anemia in CKD and does not cause kidney stones, which are formed from crystalline substances."
+Cyclosporine,may treat,Renal Artery Stenosis,incorrect,gpt4o_t2b,nephrology,"Cyclosporine is an immunosuppressant used in transplant patients and does not treat renal artery stenosis, a condition that requires revascularization or medical management."
+Carbamazepine,may treat,Trigeminal Neuralgia,correct,gpt4o_t2b,neurology,Carbamazepine is an anticonvulsant that is effective in reducing the pain associated with trigeminal neuralgia.
+Phenytoin,has adverse effect,Gingival Hyperplasia,correct,gpt4o_t2b,neurology,"Phenytoin, an antiepileptic drug, can cause gingival overgrowth as a common side effect in long-term use."
+Levodopa,contraindication,Narrow Angle Glaucoma,correct,gpt4o_t2b,neurology,"Levodopa can increase intraocular pressure, making it contraindicated in patients with narrow angle glaucoma."
+Sumatriptan,interacts with,Fluoxetine,correct,gpt4o_t2b,neurology,Using sumatriptan with fluoxetine can increase the risk of serotonin syndrome due to synergistic serotonergic activity.
+Multiple Sclerosis,ddx,Neuromyelitis Optica,correct,gpt4o_t2b,neurology,"Multiple sclerosis and neuromyelitis optica share overlapping clinical features, making differential diagnosis essential for appropriate management."
+Lumbar Puncture,may diagnose,Meningitis,correct,gpt4o_t2b,neurology,Lumbar puncture can be used to obtain cerebrospinal fluid to confirm the diagnosis of meningitis by identifying pathogens or inflammatory markers.
+Topiramate,may cause,Cognitive Dysfunction,correct,gpt4o_t2b,neurology,"Topiramate is associated with cognitive side effects, including memory impairment and attention difficulties, due to its action on neuronal signaling."
+Electroencephalogram (EEG),may diagnose,Epilepsy,correct,gpt4o_t2b,neurology,"EEG is used to detect abnormal electrical activity in the brain, which can help diagnose epilepsy by identifying characteristic patterns."
+Rivastigmine,may treat,Alzheimer's Disease,correct,gpt4o_t2b,neurology,"Rivastigmine, a cholinesterase inhibitor, is used to improve cognitive function in patients with mild to moderate Alzheimer's disease."
+Lamotrigine,may treat,Bipolar Depression,edge,gpt4o_t2b,neurology,"Lamotrigine is primarily used for epilepsy but may be effective for bipolar depression, particularly in preventing depressive episodes."
+Interferon beta-1a,has adverse effect,Flu-like Symptoms,edge,gpt4o_t2b,neurology,"Interferon beta-1a, used for multiple sclerosis, often causes flu-like symptoms as an adverse effect due to immune system modulation."
+Sumatriptan,contraindication,Coronary Artery Disease,edge,gpt4o_t2b,neurology,"Sumatriptan, a migraine medication, is contraindicated in patients with coronary artery disease due to the risk of coronary vasospasm."
+Carbamazepine,interacts with,Warfarin,edge,gpt4o_t2b,neurology,"Carbamazepine, used for seizures, induces hepatic enzymes that can decrease the effectiveness of warfarin, necessitating dose adjustments."
+Riluzole,may treat,Amyotrophic Lateral Sclerosis,edge,gpt4o_t2b,neurology,Riluzole is conditionally used to extend survival or time to tracheostomy in ALS patients by modulating glutamate release.
+Gabapentin,may cause,Peripheral Edema,edge,gpt4o_t2b,neurology,"While used for neuropathic pain and seizures, gabapentin may cause peripheral edema, especially in older adults or those with renal impairment."
+Botulinum Toxin,has adverse effect,Muscle Weakness,edge,gpt4o_t2b,neurology,"Botulinum toxin, used for spasticity and migraines, may cause muscle weakness at or near the injection site when used repeatedly or at high doses."
+Levetiracetam,contraindication,Severe Renal Impairment,edge,gpt4o_t2b,neurology,"Levetiracetam is contraindicated in severe renal impairment due to its primary renal excretion pathway, requiring adjusted dosing or alternative treatments."
+Gabapentin,may diagnose,Alzheimer's disease,incorrect,gpt4o_t2b,neurology,"Gabapentin is used to treat seizures and neuropathic pain, not to diagnose Alzheimer's disease."
+MRI,may treat,Multiple sclerosis,incorrect,gpt4o_t2b,neurology,"MRI is a diagnostic imaging technique, not a treatment method for multiple sclerosis."
+Carbamazepine,may cause,Parkinson's disease,incorrect,gpt4o_t2b,neurology,"Carbamazepine is used to treat seizures and bipolar disorder, and is not known to cause Parkinson's disease."
+Ropinirole,contraindication,Epilepsy,incorrect,gpt4o_t2b,neurology,"Ropinirole is used to treat Parkinson's disease and restless legs syndrome, not contraindicated for epilepsy."
+Donepezil,has adverse effect,Migraine,incorrect,gpt4o_t2b,neurology,Donepezil is used in Alzheimer's disease and is not known to cause migraines as a side effect.
+Lamotrigine,interacts with,Levodopa,incorrect,gpt4o_t2b,neurology,"Lamotrigine is an anticonvulsant and mood stabilizer, and does not have a known significant interaction with Levodopa."
+Electroencephalogram (EEG),ddx,Migraine,incorrect,gpt4o_t2b,neurology,"An EEG is used to diagnose epilepsy and other brain disorders, not typically used to differentiate migraines."
+Topiramate,may cause,Amyotrophic lateral sclerosis (ALS),incorrect,gpt4o_t2b,neurology,"Topiramate is used to prevent migraines and treat epilepsy, and does not cause ALS."
+oxytocin,may treat,postpartum hemorrhage,correct,gpt4o_t2b,obstetrics,Oxytocin is commonly used to induce or augment labor and can also help manage postpartum hemorrhage by promoting uterine contractions.
+magnesium sulfate,may cause,respiratory depression,correct,gpt4o_t2b,obstetrics,"Magnesium sulfate is used to prevent seizures in preeclampsia but can cause respiratory depression as a side effect, especially in overdose."
+methylergometrine,has adverse effect,hypertension,correct,gpt4o_t2b,obstetrics,Methylergometrine is used to prevent or treat postpartum hemorrhage but can cause hypertension as an adverse effect.
+warfarin,contraindication,pregnancy,correct,gpt4o_t2b,obstetrics,Warfarin is contraindicated in pregnancy due to the risk of fetal warfarin syndrome and other teratogenic effects.
+labetalol,interacts with,insulin,correct,gpt4o_t2b,obstetrics,"Labetalol, a beta-blocker used for hypertension in pregnancy, can interact with insulin by masking hypoglycemic symptoms."
+ectopic pregnancy,ddx,acute appendicitis,correct,gpt4o_t2b,obstetrics,"Ectopic pregnancy can present with abdominal pain similar to acute appendicitis, making it an important differential diagnosis."
+non-stress test,may diagnose,fetal distress,correct,gpt4o_t2b,obstetrics,"A non-stress test is used to evaluate fetal well-being by monitoring the fetal heart rate in response to fetal movements, helping diagnose fetal distress."
+ritodrine,has adverse effect,maternal tachycardia,correct,gpt4o_t2b,obstetrics,Ritodrine is a tocolytic agent used to suppress premature labor and can cause maternal tachycardia as a side effect.
+metformin,may treat,gestational diabetes,edge,gpt4o_t2b,obstetrics,"Metformin is sometimes used off-label to manage blood sugar levels in pregnant women with gestational diabetes, especially when insulin is not preferred."
+indomethacin,may cause,premature closure of ductus arteriosus,edge,gpt4o_t2b,obstetrics,Indomethacin can lead to premature closure of the ductus arteriosus in the fetus if used in late pregnancy.
+oxytocin,has adverse effect,uterine hyperstimulation,edge,gpt4o_t2b,obstetrics,"Oxytocin, used to induce labor, can cause uterine hyperstimulation if not carefully dosed."
+labetalol,contraindication,asthma,edge,gpt4o_t2b,obstetrics,"Labetalol, a common treatment for hypertension in pregnancy, is contraindicated in patients with asthma due to its potential to cause bronchospasm."
+magnesium sulfate,interacts with,nifedipine,edge,gpt4o_t2b,obstetrics,"Magnesium sulfate and nifedipine, both used in obstetrics, can interact to increase the risk of hypotension and neuromuscular blockade."
+aspirin,may treat,preeclampsia,edge,gpt4o_t2b,obstetrics,Low-dose aspirin may be used prophylactically to reduce the risk of preeclampsia in high-risk pregnancies.
+misoprostol,may cause,uterine rupture,edge,gpt4o_t2b,obstetrics,"Misoprostol, used to induce labor, can rarely cause uterine rupture, especially in women with previous cesarean sections."
+heparin,has adverse effect,osteoporosis,edge,gpt4o_t2b,obstetrics,"Long-term use of heparin during pregnancy can lead to osteoporosis, particularly in women with underlying bone health issues."
+oxytocin,may diagnose,preeclampsia,incorrect,gpt4o_t2b,obstetrics,"Oxytocin is a hormone used to induce labor and cannot diagnose conditions like preeclampsia, which is diagnosed based on clinical symptoms and laboratory findings."
+magnesium sulfate,contraindication,gestational diabetes,incorrect,gpt4o_t2b,obstetrics,Magnesium sulfate is used to prevent seizures in preeclampsia and is not contraindicated in gestational diabetes; its use is unrelated to blood sugar control.
+amniocentesis,may cause,gestational hypertension,incorrect,gpt4o_t2b,obstetrics,"Amniocentesis is a diagnostic procedure and does not cause gestational hypertension, which is related to different physiological factors."
+beta blockers,has adverse effect,preterm labor,incorrect,gpt4o_t2b,obstetrics,Beta blockers are used to manage hypertension and do not have an adverse effect of causing preterm labor; they can actually be used to manage preterm labor in some cases.
+nifedipine,may treat,peripartum cardiomyopathy,incorrect,gpt4o_t2b,obstetrics,"Nifedipine is a calcium channel blocker used to manage preterm labor and hypertension, not specifically to treat peripartum cardiomyopathy."
+chorionic villus sampling,interacts with,methyldopa,incorrect,gpt4o_t2b,obstetrics,"Chorionic villus sampling is a diagnostic procedure and it does not interact with methyldopa, a medication used to treat hypertension."
+epidural anesthesia,ddx,placenta previa,incorrect,gpt4o_t2b,obstetrics,Epidural anesthesia is used for pain relief during labor and delivery and cannot be used as a differential diagnosis tool for placenta previa.
+misoprostol,interacts with,heparin,incorrect,gpt4o_t2b,obstetrics,"Misoprostol is used to induce labor or as an abortifacient and does not have a direct pharmacological interaction with heparin, an anticoagulant."
+Trastuzumab,may treat,HER2-positive breast cancer,correct,gpt4o_t2b,oncology,"Trastuzumab is a monoclonal antibody that targets HER2 receptors, commonly overexpressed in some breast cancers."
+Cyclophosphamide,may cause,hemorrhagic cystitis,correct,gpt4o_t2b,oncology,"Cyclophosphamide is an alkylating agent that can cause bladder irritation, leading to hemorrhagic cystitis."
+Doxorubicin,has adverse effect,cardiotoxicity,correct,gpt4o_t2b,oncology,"Doxorubicin is an anthracycline that can lead to dose-dependent cardiotoxicity, affecting heart function."
+Tamoxifen,contraindication,pregnancy,correct,gpt4o_t2b,oncology,Tamoxifen is contraindicated in pregnancy due to its potential teratogenic effects and risk of fetal harm.
+Warfarin,interacts with,Capecitabine,correct,gpt4o_t2b,oncology,"Warfarin's anticoagulant effects can be potentiated by Capecitabine, increasing the risk of bleeding."
+Prostate specific antigen (PSA) test,may diagnose,prostate cancer,correct,gpt4o_t2b,oncology,"Elevated levels of PSA can indicate prostate cancer, aiding in its diagnosis."
+Erlotinib,may treat,non-small cell lung cancer,correct,gpt4o_t2b,oncology,Erlotinib is an EGFR inhibitor used in the treatment of non-small cell lung cancer with specific mutations.
+Fluorouracil,has adverse effect,mucositis,correct,gpt4o_t2b,oncology,"Fluorouracil, a pyrimidine analog, can cause mucositis due to its cytotoxic effects on rapidly dividing cells."
+Multiple myeloma,ddx,metastatic bone disease,correct,gpt4o_t2b,oncology,"Multiple myeloma and metastatic bone disease can both present with osteolytic lesions, necessitating differential diagnosis."
+metformin,may treat,prostate cancer,edge,gpt4o_t2b,oncology,"Metformin has shown potential anti-cancer effects in prostate cancer in some studies, particularly in patients with concurrent metabolic disorders."
+immunotherapy,may cause,colitis,edge,gpt4o_t2b,oncology,"Immunotherapy can lead to immune-related adverse events, such as colitis, particularly in patients with pre-existing autoimmune conditions."
+tamoxifen,has adverse effect,endometrial cancer,edge,gpt4o_t2b,oncology,"Tamoxifen, used in breast cancer treatment, has an increased risk of endometrial cancer as a rare but serious adverse effect."
+cisplatin,contraindication,renal impairment,edge,gpt4o_t2b,oncology,Cisplatin is contraindicated in patients with severe renal impairment due to its nephrotoxic potential.
+radiation therapy,may cause,secondary cancers,edge,gpt4o_t2b,oncology,"Radiation therapy can increase the risk of developing secondary cancers years after treatment, particularly in younger patients."
+bevacizumab,interacts with,sunitinib,edge,gpt4o_t2b,oncology,Bevacizumab and sunitinib may interact to increase the risk of hypertension and proteinuria when used concurrently.
+sorafenib,may treat,thyroid cancer,edge,gpt4o_t2b,oncology,"Sorafenib is used off-label to treat advanced thyroid cancer, particularly in radioiodine-refractory differentiated thyroid carcinoma."
+lenvatinib,contraindication,uncontrolled hypertension,edge,gpt4o_t2b,oncology,Lenvatinib is contraindicated in patients with uncontrolled hypertension due to its potential to exacerbate blood pressure.
+Tamoxifen,may diagnose,Breast Cancer,incorrect,gpt4o_t2b,oncology,"Tamoxifen is a drug used to treat breast cancer, not a diagnostic tool."
+Bevacizumab,contraindication,Renal Cell Carcinoma,incorrect,gpt4o_t2b,oncology,"Bevacizumab is often used to treat renal cell carcinoma, not contraindicated for it."
+Cisplatin,may cause,Leukemia,edge,gpt4o_t2b,oncology,Platinum-based chemotherapy has been associated with rare therapy-related leukemia/myelodysplasia; the link is uncommon but clinically plausible.
+Melanoma,ddx,Lung Cancer,edge,gpt4o_t2b,oncology,"Primary lung cancer vs pulmonary metastasis from melanoma (or other primaries) enters real oncology workup; trivially 'all cancers ddx each other' is false, but this pair is not universally absurd — context-dependent edge."
+Doxorubicin,interacts with,Metformin,incorrect,gpt4o_t2b,oncology,There is no known significant pharmacological interaction between doxorubicin and metformin.
+BRCA1 Mutation Test,may treat,Ovarian Cancer,incorrect,gpt4o_t2b,oncology,"The BRCA1 mutation test is used for genetic testing, not as a treatment for ovarian cancer."
+Radiotherapy,has adverse effect,Prostate Cancer,incorrect,gpt4o_t2b,oncology,"Radiotherapy is a treatment method for prostate cancer, not an adverse effect."
+Tamoxifen,may cause,Prostate Cancer,incorrect,manual_curated,oncology,Tamoxifen is a selective estrogen receptor modulator for hormone receptor-positive breast cancer and is not known to cause prostate cancer.
+Imatinib,contraindication,Chronic Myeloid Leukemia,incorrect,gpt4o_t2b,oncology,"Imatinib is a standard treatment for chronic myeloid leukemia, not a contraindication."
+Amoxicillin,may treat,Otitis media,correct,gpt4o_t2b,pediatrics,Amoxicillin is commonly prescribed to treat acute otitis media in children due to its effectiveness against common bacterial pathogens.
+Ibuprofen,may cause,Gastritis,correct,gpt4o_t2b,pediatrics,"Ibuprofen, a nonsteroidal anti-inflammatory drug, can cause gastritis in children due to its irritative effects on the gastric mucosa."
+Methylphenidate,has adverse effect,Insomnia,correct,gpt4o_t2b,pediatrics,"Methylphenidate, used for ADHD, can lead to insomnia as a common adverse effect due to its stimulant properties."
+Aspirin,contraindication,Viral infection,correct,gpt4o_t2b,pediatrics,"Aspirin is contraindicated in children with viral infections due to the risk of Reye's syndrome, a serious condition."
+Lamotrigine,interacts with,Valproic acid,correct,gpt4o_t2b,pediatrics,"Lamotrigine and valproic acid can interact, leading to increased risk of lamotrigine-induced skin rash, especially in children."
+Leukemia,ddx,Idiopathic thrombocytopenic purpura,correct,gpt4o_t2b,pediatrics,"Leukemia and idiopathic thrombocytopenic purpura both present with thrombocytopenia, requiring differentiation in pediatric patients."
+Sweat test,may diagnose,Cystic fibrosis,correct,gpt4o_t2b,pediatrics,"The sweat test is a diagnostic tool for cystic fibrosis, measuring elevated levels of chloride in the sweat of affected children."
+Inhaled corticosteroids,may treat,Asthma,correct,gpt4o_t2b,pediatrics,"Inhaled corticosteroids are a cornerstone in the management of persistent asthma in children, reducing inflammation in the airways."
+Propranolol,may treat,infantile hemangioma,edge,gpt4o_t2b,pediatrics,Propranolol is conditionally effective in treating infantile hemangiomas due to its vasoconstrictive and anti-angiogenic properties.
+Valproic acid,may cause,weight gain,edge,gpt4o_t2b,pediatrics,"Valproic acid can lead to weight gain in pediatric patients, especially during long-term treatment for epilepsy."
+Dexamethasone,has adverse effect,growth suppression,edge,gpt4o_t2b,pediatrics,Long-term use of dexamethasone in children can suppress growth due to its effects on bone metabolism.
+Ibuprofen,contraindication,chickenpox,edge,gpt4o_t2b,pediatrics,Ibuprofen is contraindicated in children with chickenpox due to the increased risk of severe skin infections.
+Risperidone,may treat,irritability in autism,edge,gpt4o_t2b,pediatrics,"Risperidone is approved for treating irritability associated with autism in children, improving symptoms like aggression."
+Aspirin,has adverse effect,Reye's syndrome,edge,gpt4o_t2b,pediatrics,"Aspirin use in children with viral infections can lead to Reye's syndrome, a potentially fatal condition affecting the liver and brain."
+Carbamazepine,interacts with,erythromycin,edge,gpt4o_t2b,pediatrics,"Carbamazepine levels can be increased when taken with erythromycin, leading to toxicity, especially in children with epilepsy."
+Metformin,contraindication,renal impairment,edge,gpt4o_t2b,pediatrics,Metformin is contraindicated in pediatric patients with renal impairment due to the risk of lactic acidosis.
+amoxicillin,may diagnose,otitis media,incorrect,gpt4o_t2b,pediatrics,"Amoxicillin is an antibiotic used to treat infections, not to diagnose conditions like otitis media."
+albuterol,may cause,chickenpox,incorrect,gpt4o_t2b,pediatrics,Albuterol is a bronchodilator used to treat asthma symptoms and does not cause viral infections such as chickenpox.
+ibuprofen,contraindication,strep throat,incorrect,gpt4o_t2b,pediatrics,"Ibuprofen can be used to alleviate pain and fever in strep throat, not contraindicated for it."
+acetaminophen,has adverse effect,autism,incorrect,gpt4o_t2b,pediatrics,Acetaminophen is used for pain relief and fever reduction and is not known to cause autism.
+penicillin,may treat,viral pneumonia,incorrect,gpt4o_t2b,pediatrics,"Penicillin is an antibiotic effective against bacterial infections, not viral pneumonia."
+varicella vaccine,interacts with,metformin,incorrect,gpt4o_t2b,pediatrics,The varicella vaccine and metformin act on different systems and do not interact with each other.
+salbutamol,ddx,cystic fibrosis,incorrect,gpt4o_t2b,pediatrics,Salbutamol is used to relieve asthma symptoms and is not used in the differential diagnosis of cystic fibrosis.
+measles vaccine,may cause,juvenile diabetes,incorrect,gpt4o_t2b,pediatrics,The measles vaccine is designed to prevent measles and is not associated with causing juvenile diabetes.
+Fluoxetine,may treat,Major Depressive Disorder,correct,gpt4o_t2b,psychiatry,Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) commonly prescribed for the treatment of major depressive disorder.
+Lithium,may cause,Hypothyroidism,correct,gpt4o_t2b,psychiatry,"Lithium is known to interfere with thyroid function, potentially leading to hypothyroidism in patients undergoing treatment."
+Clozapine,has adverse effect,Agranulocytosis,correct,gpt4o_t2b,psychiatry,"Clozapine can cause agranulocytosis, a serious condition characterized by a dangerously low white blood cell count."
+Monoamine oxidase inhibitors,contraindication,Tyramine-rich foods,correct,gpt4o_t2b,psychiatry,MAO inhibitors can cause hypertensive crisis when taken with tyramine-rich foods due to excess accumulation of norepinephrine.
+Sertraline,interacts with,Warfarin,correct,gpt4o_t2b,psychiatry,"Sertraline can increase the effects of warfarin, leading to an increased risk of bleeding."
+Patient Health Questionnaire-9 (PHQ-9),may diagnose,Depression,correct,gpt4o_t2b,psychiatry,"The PHQ-9 is a widely used tool for screening, diagnosing, and monitoring the severity of depression."
+Haloperidol,may treat,Schizophrenia,correct,gpt4o_t2b,psychiatry,Haloperidol is a typical antipsychotic used to manage symptoms of schizophrenia.
+Electroconvulsive Therapy (ECT),ddx,Treatment-resistant Depression,correct,gpt4o_t2b,psychiatry,ECT is considered an effective treatment option for patients with treatment-resistant depression when other therapies have failed.
+Lamotrigine,may treat,Borderline Personality Disorder,edge,gpt4o_t2b,psychiatry,"Lamotrigine may be used off-label for mood stabilization in patients with Borderline Personality Disorder, though evidence is limited and should be considered case-by-case."
+Bupropion,may cause,Seizures,edge,gpt4o_t2b,psychiatry,"Bupropion can lower the seizure threshold, particularly at higher doses or in individuals with predisposing factors, such as a history of seizures."
+Quetiapine,may treat,Sleep disturbances in PTSD,edge,gpt4o_t2b,psychiatry,"Quetiapine can be used off-label to address sleep disturbances in PTSD patients, though this is not a primary indication."
+Fluoxetine,interacts with,Tramadol,edge,gpt4o_t2b,psychiatry,"Fluoxetine and tramadol can interact to increase the risk of serotonin syndrome, particularly at higher doses or in susceptible individuals."
+Lithium,has adverse effect,Thyroid dysfunction,edge,gpt4o_t2b,psychiatry,"Long-term use of lithium can lead to thyroid dysfunction, particularly hypothyroidism, requiring regular thyroid function tests."
+SSRIs,contraindication,Concomitant use with MAOIs,edge,gpt4o_t2b,psychiatry,Concurrent use of SSRIs and MAOIs is contraindicated due to the high risk of serotonin syndrome.
+Aripiprazole,may cause,Impulse control problems,edge,gpt4o_t2b,psychiatry,"In rare cases, aripiprazole can lead to impulse control disorders, such as compulsive gambling, particularly in predisposed individuals."
+Clozapine,may diagnose,Bipolar Disorder,incorrect,gpt4o_t2b,psychiatry,"Clozapine is an antipsychotic used to treat schizophrenia, not a diagnostic tool for bipolar disorder."
+Fluoxetine,has adverse effect,Improved Sleep Quality,incorrect,gpt4o_t2b,psychiatry,"Fluoxetine, an SSRI, can cause insomnia rather than improving sleep quality."
+Lithium,may cause,Increased Dopamine Levels,incorrect,gpt4o_t2b,psychiatry,Lithium stabilizes mood by affecting neurotransmitter pathways but is known to decrease dopamine receptor sensitivity.
+Sertraline,contraindication,Seasonal Affective Disorder,incorrect,gpt4o_t2b,psychiatry,"Sertraline is actually used to treat Seasonal Affective Disorder, not contraindicated for it."
+Valproate,interacts with,Cognitive Behavioral Therapy,incorrect,gpt4o_t2b,psychiatry,Valproate is a medication and does not have pharmacological interactions with psychotherapies like CBT.
+Diazepam,ddx,Obsessive-Compulsive Disorder,incorrect,gpt4o_t2b,psychiatry,Diazepam is used for anxiety and muscle spasms but is not a differential diagnosis tool for OCD.
+ECT (Electroconvulsive Therapy),may treat,Generalized Anxiety Disorder,incorrect,gpt4o_t2b,psychiatry,"ECT is primarily used for severe depression and certain types of psychosis, not typically as a treatment for generalized anxiety disorder."
+Venlafaxine,may cause,Hypothyroidism,incorrect,gpt4o_t2b,psychiatry,Venlafaxine is an antidepressant that does not affect thyroid function and is not known to induce hypothyroidism.
+Isoniazid,has adverse effect,Hepatitis,correct,gpt4o_t2b,pulmonology,"Isoniazid, used to treat tuberculosis, has the adverse effect of causing hepatitis."
+Beta-blockers,contraindication,COPD,correct,gpt4o_t2b,pulmonology,Beta-blockers can exacerbate symptoms in patients with COPD and are typically avoided.
+Theophylline,interacts with,Ciprofloxacin,correct,gpt4o_t2b,pulmonology,"Ciprofloxacin can increase the plasma concentration of theophylline, leading to potential toxicity."
+Pulmonary embolism,ddx,Pneumonia,correct,gpt4o_t2b,pulmonology,"Pulmonary embolism and pneumonia can present with similar symptoms like shortness of breath, requiring differential diagnosis."
+Chest X-ray,may diagnose,Pneumothorax,correct,gpt4o_t2b,pulmonology,A chest X-ray is often used to diagnose pneumothorax by showing air in the pleural space.
+Methotrexate,may cause,Interstitial lung disease,correct,gpt4o_t2b,pulmonology,Methotrexate can lead to interstitial lung disease as a pulmonary side effect.
+Nintedanib,may treat,idiopathic pulmonary fibrosis,edge,gpt4o_t2b,pulmonology,"Nintedanib may slow the progression of idiopathic pulmonary fibrosis in some patients, although its efficacy varies."
+Aspirin,may cause,bronchospasm,edge,gpt4o_t2b,pulmonology,Aspirin can cause bronchospasm in individuals with aspirin-exacerbated respiratory disease.
+Beta-blockers,has adverse effect,asthma exacerbation,edge,gpt4o_t2b,pulmonology,Non-selective beta-blockers can exacerbate asthma symptoms in susceptible individuals.
+Pulmonary function test,contraindication,recent pneumothorax,edge,gpt4o_t2b,pulmonology,Performing a pulmonary function test is contraindicated shortly after a pneumothorax due to the risk of worsening the condition.
+Montelukast,may treat,exercise-induced bronchoconstriction,edge,gpt4o_t2b,pulmonology,Montelukast may be effective in preventing exercise-induced bronchoconstriction in some patients.
+Inhaled corticosteroids,has adverse effect,oral thrush,edge,gpt4o_t2b,pulmonology,Inhaled corticosteroids can cause oral thrush if proper inhalation technique and oral hygiene are not maintained.
+Methotrexate,may treat,sarcoidosis,edge,gpt4o_t2b,pulmonology,Methotrexate is used off-label to treat chronic sarcoidosis when corticosteroids are insufficient or contraindicated.
+Pneumococcal vaccine,contraindication,acute febrile illness,edge,gpt4o_t2b,pulmonology,Administration of the pneumococcal vaccine is contraindicated during an acute febrile illness to avoid confounding diagnosis and treatment.
+albuterol,may diagnose,asthma,incorrect,gpt4o_t2b,pulmonology,"Albuterol is a bronchodilator used to relieve symptoms of asthma, not diagnose it."
+chest X-ray,may treat,pneumonia,incorrect,gpt4o_t2b,pulmonology,"A chest X-ray is a diagnostic tool, not a treatment for pneumonia."
+spirometry,has adverse effect,chronic obstructive pulmonary disease (COPD),incorrect,gpt4o_t2b,pulmonology,"Spirometry is used to assess lung function and diagnose COPD, not cause adverse effects related to it."
+prednisone,contraindication,bronchitis,incorrect,gpt4o_t2b,pulmonology,"Prednisone can be used to treat inflammation in bronchitis, not contraindicate it."
+montelukast,interacts with,salbutamol,incorrect,gpt4o_t2b,pulmonology,Montelukast and salbutamol are generally used together without significant interactions.
+pulmonary function test,may cause,lung cancer,incorrect,gpt4o_t2b,pulmonology,Pulmonary function tests assess lung function but do not cause lung cancer.
+oxygen therapy,ddx,sleep apnea,incorrect,gpt4o_t2b,pulmonology,Oxygen therapy is a treatment modality and not used as a differential diagnosis for sleep apnea.
+inhaled corticosteroids,may diagnose,chronic bronchitis,incorrect,gpt4o_t2b,pulmonology,"Inhaled corticosteroids are used to manage symptoms, not diagnose chronic bronchitis."
+Hydroxychloroquine,may cause,Retinopathy,correct,gpt4o_t2b,rheumatology,"Prolonged use of hydroxychloroquine can lead to retinal damage, necessitating regular eye examinations during treatment."
+NSAIDs,has adverse effect,Gastrointestinal Bleeding,correct,gpt4o_t2b,rheumatology,Nonsteroidal anti-inflammatory drugs (NSAIDs) can cause gastrointestinal bleeding due to their effect on gastric mucosa and platelet function.
+Leflunomide,interacts with,Warfarin,correct,gpt4o_t2b,rheumatology,"Leflunomide can increase the anticoagulant effect of warfarin, leading to an elevated risk of bleeding."
+Systemic Lupus Erythematosus,ddx,Rheumatoid Arthritis,correct,gpt4o_t2b,rheumatology,"Systemic lupus erythematosus and rheumatoid arthritis can present with similar symptoms, making differential diagnosis essential."
+Anti-CCP Antibody Test,may diagnose,Rheumatoid Arthritis,correct,gpt4o_t2b,rheumatology,The presence of anti-cyclic citrullinated peptide (anti-CCP) antibodies is highly specific for diagnosing rheumatoid arthritis.
+Etanercept,may treat,Ankylosing Spondylitis,correct,gpt4o_t2b,rheumatology,Etanercept is an anti-TNF biologic agent used in the treatment of ankylosing spondylitis to reduce inflammation and improve physical function.
+Rituximab,may treat,Granulomatosis with polyangiitis,edge,gpt4o_t2b,rheumatology,Rituximab is conditionally used in patients who do not respond to standard cyclophosphamide therapy for granulomatosis with polyangiitis.
+Hydroxychloroquine,may cause,Retinal toxicity,edge,gpt4o_t2b,rheumatology,"Hydroxychloroquine can cause retinal toxicity with long-term use, especially at higher cumulative doses."
+Methotrexate,has adverse effect,Liver fibrosis,edge,gpt4o_t2b,rheumatology,Methotrexate can lead to liver fibrosis in patients with pre-existing liver conditions or concurrent alcohol use.
+TNF inhibitors,contraindication,Multiple sclerosis,edge,gpt4o_t2b,rheumatology,TNF inhibitors are contraindicated in patients with multiple sclerosis due to the risk of exacerbating demyelinating diseases.
+Sulfasalazine,interacts with,Warfarin,edge,gpt4o_t2b,rheumatology,"Sulfasalazine may enhance the anticoagulant effect of warfarin, increasing the risk of bleeding."
+Colchicine,may treat,Familial Mediterranean fever,edge,gpt4o_t2b,rheumatology,Colchicine is used off-label for managing familial Mediterranean fever in patients unresponsive to NSAIDs.
+Azathioprine,may cause,Bone marrow suppression,edge,gpt4o_t2b,rheumatology,"Azathioprine can cause bone marrow suppression, particularly in patients with TPMT enzyme deficiency."
+Anakinra,has adverse effect,Neutropenia,edge,gpt4o_t2b,rheumatology,"Anakinra can lead to neutropenia, an adverse effect more common in patients with pre-existing hematological abnormalities."
+Prednisone,may diagnose,Rheumatoid arthritis,incorrect,gpt4o_t2b,rheumatology,"Prednisone is used to treat symptoms of rheumatoid arthritis, but it cannot diagnose the condition. Diagnosis requires clinical evaluation and specific tests."
+Methotrexate,interacts with,Ibuprofen,edge,gpt4o_t2b,rheumatology,"UpToDate Risk Rating D (consider therapy modification): NSAIDs may increase methotrexate serum concentrations. High-dose oncologic methotrexate with NSAIDs should be avoided, but low-dose RA regimens are commonly co-prescribed with monitoring. Conditional/dose-dependent edge case."
+Hydroxychloroquine,may cause,Osteoarthritis,incorrect,gpt4o_t2b,rheumatology,"Hydroxychloroquine is used to treat inflammatory conditions and does not cause osteoarthritis, which is a degenerative joint disease."
+Sulfasalazine,contraindication,Ankylosing spondylitis,incorrect,gpt4o_t2b,rheumatology,Sulfasalazine is actually used to treat ankylosing spondylitis and is not contraindicated; it helps reduce inflammation in this condition.
+TNF inhibitors,has adverse effect,Gout,incorrect,gpt4o_t2b,rheumatology,TNF inhibitors are used to treat inflammatory arthritis and do not cause gout; gout is related to uric acid metabolism.
+Allopurinol,ddx,Systemic lupus erythematosus,incorrect,gpt4o_t2b,rheumatology,Allopurinol is used to manage gout by decreasing uric acid levels and does not play a role in the differential diagnosis of systemic lupus erythematosus.
+Colchicine,may treat,Fibromyalgia,incorrect,gpt4o_t2b,rheumatology,Colchicine is used to treat gout flares and does not treat fibromyalgia; fibromyalgia management involves pain relief and lifestyle modifications.
+Antinuclear antibody test,interacts with,Leflunomide,incorrect,gpt4o_t2b,rheumatology,"The antinuclear antibody test is a diagnostic tool for autoimmune diseases and does not interact with leflunomide, a medication used to treat rheumatoid arthritis."
+Psoriasis,may cause,Psoriatic arthritis,correct,gpt4o_t2b_sup,dermatology,Psoriasis can lead to psoriatic arthritis in some patients.
+Eczema,may treat,Topical corticosteroids,incorrect,gpt4o_t2b_sup,dermatology,"Topical corticosteroids treat eczema, not the other way around."
+Iron deficiency anemia,may diagnose,Low ferritin,incorrect,gpt4o_t2b_sup,hematology,"Reversed: low ferritin (and other studies) supports diagnosis of iron deficiency anemia — not 'IDA diagnoses ferritin'."
+Gout,contraindication,Thiazide diuretics,correct,gpt4o_t2b_sup,rheumatology,Thiazide diuretics can exacerbate hyperuricemia and gout.
+Pregnancy,interacts with,Warfarin,incorrect,gpt4o_t2b_sup,obstetrics,"Misleading structure: pregnancy is not a pharmacologic agent that 'interacts with' warfarin. Correct clinical framing is warfarin contraindicated / avoided in pregnancy (teratogenicity, fetal bleeding)."
+Acne vulgaris,has adverse effect,Scarring,incorrect,gpt4o_t2b_sup,dermatology,"Misleading relation type: scarring is a sequela/complication of acne, not an 'adverse effect' in the drug-centric sense. Prefer 'may cause' / complication framing."
+Vitamin B12 deficiency,may treat,Metformin,incorrect,gpt4o_t2b_sup,hematology,"Metformin can cause vitamin B12 deficiency, not treat it."
+Chronic kidney disease,may cause,Anemia,correct,gpt4o_t2b_sup,nephrology,Chronic kidney disease can lead to anemia due to reduced erythropoietin.
+Pregnancy,may cause,Hypertension,edge,gpt4o_t2b_sup,obstetrics,Pregnancy can lead to gestational hypertension in some cases.
+Psoriasis,may diagnose,Elevated uric acid,incorrect,gpt4o_t2b_sup,dermatology,Elevated uric acid is not used to diagnose psoriasis.
+Lupus nephritis,may treat,Cyclophosphamide,incorrect,gpt4o_t2b_sup,nephrology,"Reversed: cyclophosphamide may treat lupus nephritis — the disease is not the subject of 'may treat' the drug."
+Hydroxychloroquine,has adverse effect,Retinopathy,correct,gpt4o_t2b_sup,rheumatology,Long-term use of hydroxychloroquine can cause retinopathy.
+Dermatitis herpetiformis,ddx,Celiac disease,correct,gpt4o_t2b_sup,dermatology,Dermatitis herpetiformis is a skin manifestation of celiac disease.
+Hemophilia,may cause,Deep vein thrombosis,incorrect,gpt4o_t2b_sup,hematology,"Hemophilia leads to bleeding, not thrombosis."
+Preeclampsia,contraindication,ACE inhibitors,correct,gpt4o_t2b_sup,obstetrics,ACE inhibitors are contraindicated in pregnancy due to risk of fetal harm.
+Rheumatoid arthritis,interacts with,Methotrexate,incorrect,gpt4o_t2b_sup,rheumatology,"Invalid modeling: 'interacts with' expects drug–drug (or similar); methotrexate treats RA — use may_treat / indication-style relation, not disease–drug interaction."

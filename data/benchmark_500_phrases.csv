@@ -1,0 +1,501 @@
+origin,relationship,target
+tofacitinib 5 mg,may treat,psoriatic arthritis
+diphenhydramine,interacts with,clozapine
+menopause,may cause,sweating
+complete blood count,may diagnose,agranulocytosis
+olanzapine,has adverse effect,hypercholesterolemia
+peptic ulcer disease,ddx,esophagitis
+lopinavir,contraindication,naloxegol
+steroids,may treat,pediatric pharyngitis
+histrelin,interacts with,ceritinib
+goodpasture syndrome,may cause,malaise
+serum prolactin measurement,may diagnose,posttraumatic epilepsy
+ceritinib,has adverse effect,diarrhea
+acute conjunctivitis,ddx,measles
+etravirine,contraindication,rilpivirine
+laser therapy,may treat,hirsutism
+eribulin,interacts with,quinidine
+echovirus infection,may cause,spasmodic pain
+color-doppler sonography,may diagnose,pediatric thyroid cancer
+venetoclax,has adverse effect,vomiting
+trypanosomiasis,ddx,pediatric gastroesophageal reflux
+ribociclib,contraindication,saquinavir
+current treatment strategy,may treat,panic disorder
+tolmetin,interacts with,cortisone
+progressive supranuclear palsy,may cause,disordered sleep
+stress nuclear imaging,may diagnose,alcoholic cardiomyopathy
+cephalexin,has adverse effect,confusion
+pseudophakic pupillary block,ddx,aphakic and pseudophakic glaucoma
+ketoconazole,contraindication,eliglustat
+individualized treatment,may treat,aneuploidy
+buspirone,has adverse effect,nausea
+mediastinal seminoma,may cause,constitutional symptoms
+renal biopsy,may diagnose,anti-gbm antibody disease
+lemborexant,interacts with,fexinidazole
+meningioma,ddx,syringomyelia
+idribine,contraindication,naloxegol
+chemoprophylaxis,may treat,influenza
+diazepam,interacts with,griseofulvin
+sudden infant death syndrome,may cause,respiratory pauses
+allergy testing,may diagnose,iga and igg subclass deficiencies
+venetoclax,interacts with,ibritumomab tiuxetan
+asbestosis,ddx,hypersensitivity pneumonitis
+buspirone,may treat,epilepsy
+diphenhydramine,may cause,hypertension
+olanzapine,may treat,Parkinson's disease
+menopause,may cause,glaucoma
+complete blood count,may treat,anemia
+cephalexin,may treat,viral pneumonia
+histrelin,may treat,type 2 diabetes
+ceritinib,may treat,rheumatoid arthritis
+venetoclax,may treat,breast cancer
+pseudophakic pupillary block,ddx,diabetic retinopathy
+etravirine,may treat,hepatitis B
+ribociclib,may treat,colon cancer
+tolmetin,may treat,asthma
+lemborexant,may treat,schizophrenia
+drone,may treat,heart failure
+peptic ulcer disease,may cause,pancreatitis
+lindane,may treat,bacterial pneumonia
+ziprasidone,may cause,hypothyroidism
+vincristine,may treat,metastatic breast cancer
+olaparib,may treat,BRCA-mutated pancreatic cancer
+tofacitinib 5 mg,may treat,refractory ulcerative colitis
+ceritinib,may treat,locally advanced non-small cell lung cancer
+buspirone,may cause,sedation
+venetoclax,may treat,chronic lymphocytic leukemia
+olanzapine,may treat,chemotherapy-induced nausea
+idribine,may treat,BRCA-mutated ovarian cancer
+diphenhydramine,may treat,insomnia
+histrelin,may treat,prostate cancer
+meningioma,may cause,headache
+complete blood count,may diagnose,iron deficiency anemia
+lemborexant,may treat,insomnia in elderly
+drone,may cause,QT prolongation
+serum prolactin measurement,may diagnose,pituitary adenoma
+ketoconazole,may treat,cushing's syndrome
+olanzapine,may treat,treatment-resistant depression
+ceritinib,may cause,QT prolongation
+drone,may treat,atrial fibrillation
+histrelin,may cause,hot flashes
+olaparib,may cause,nausea
+buspirone,may treat,generalized anxiety disorder
+idribine,may cause,diarrhea
+vincristine,may cause,peripheral neuropathy
+venetoclax,may cause,tumor lysis syndrome
+olanzapine,may cause,weight gain
+idribine,may treat,chronic lymphocytic leukemia
+drone,may cause,bradycardia
+serum prolactin measurement,may diagnose,hyperprolactinemia
+vincristine,may treat,hodgkin's lymphoma
+menopause,may cause,skin rash
+trypanosomiasis,ddx,hypersensitivity pneumonitis
+hepatic hemangiomas,may cause,mortality
+amitriptyline,may treat,psoriatic arthritis
+intracranial epidural abscess,ddx,hypersensitivity pneumonitis
+statins,may treat,influenza
+amitriptyline,may treat,panic disorder
+fluocinolone intravitreal implant,has adverse effect,palpitations
+serum prolactin measurement,may diagnose,heart disease
+lindane,has adverse effect,confusion
+hetastarch,has adverse effect,diarrhea
+cerliponase alfa,has adverse effect,palpitations
+peak flow,may diagnose,biotinidase deficiency
+grapefruit,contraindication,acetazolamide
+flibanserin,has adverse effect,nausea
+high-resolution studies,may diagnose,neoplastic brachial plexopathy
+ziprasidone,contraindication,ifosfamide
+ceritinib,has adverse effect,palpitations
+liver disease,contraindication,desipramine
+high-resolution studies,may diagnose,posttraumatic epilepsy
+hypertensive encephalopathy,ddx,pediatric pyelonephritis
+goodpasture syndrome,may cause,neonatal
+panhypopituitarism,ddx,clonidine toxicity
+ziconotide,interacts with,reishi
+black hairy tongue,may cause,hypokalemia
+Metformin,may treat,Type 2 Diabetes
+Ibuprofen,has adverse effect,Gastric Ulcer
+Warfarin,interacts with,Vitamin K
+Amiodarone,may cause,Pulmonary Fibrosis
+Methotrexate,contraindication,Pregnancy
+Aspirin,may treat,Myocardial Infarction
+Ciprofloxacin,may cause,Tendon Rupture
+Levothyroxine,may treat,Hypothyroidism
+Albuterol,may treat,Asthma
+Metformin,may cause,Hypoglycemia
+Ibuprofen,may treat,Hypertension
+Warfarin,may diagnose,Deep Vein Thrombosis
+Amiodarone,may treat,Diabetes
+Methotrexate,may cause,Hypothyroidism
+Aspirin,may diagnose,Stroke
+Ciprofloxacin,may treat,Viral Infections
+Metformin,may treat,Polycystic Ovary Syndrome
+Ibuprofen,has adverse effect,Renal Failure
+Warfarin,may treat,Atrial Fibrillation
+Amiodarone,may cause,Thyroid Dysfunction
+Methotrexate,may treat,Rheumatoid Arthritis
+Aspirin,may cause,Reye's Syndrome
+Ciprofloxacin,contraindication,Pregnancy
+Levothyroxine,may treat,Depression
+Albuterol,may cause,Tachycardia
+Metformin,may treat,Obesity
+Ibuprofen,may cause,Hypertension
+Warfarin,interacts with,Amiodarone
+Amiodarone,may treat,Ventricular Tachycardia
+Methotrexate,may cause,Liver Toxicity
+Aspirin,may treat,Pre-eclampsia
+Ciprofloxacin,may treat,Complicated Urinary Tract Infections
+Levothyroxine,may cause,Osteoporosis
+Albuterol,may treat,COPD
+Metformin,may cause,Lactic Acidosis
+bevacizumab,may treat,metastatic colorectal cancer
+Atorvastatin,may cause,myopathy
+Clopidogrel,has adverse effect,bleeding
+Lisinopril,contraindication,pregnancy
+Echocardiogram,may diagnose,heart failure
+Beta-blockers,ddx,bradycardia
+Nitroglycerin,may treat,angina pectoris
+Dofetilide,has adverse effect,QT prolongation
+spironolactone,may treat,heart failure with preserved ejection fraction
+ibuprofen,may cause,worsening heart failure
+metoprolol,has adverse effect,bradycardia
+diltiazem,contraindication,sick sinus syndrome
+clopidogrel,interacts with,omeprazole
+ranolazine,may treat,chronic angina
+sotalol,may cause,torsades de pointes
+digoxin,has adverse effect,visual disturbances
+verapamil,contraindication,severe left ventricular dysfunction
+Atorvastatin,may diagnose,Atrial Fibrillation
+Echocardiogram,may treat,Hypertension
+Warfarin,contraindication,Myocardial Infarction
+Metoprolol,has adverse effect,Coronary Artery Disease
+Aspirin,interacts with,Losartan
+Heart Catheterization,ddx,Pulmonary Embolism
+Amiodarone,may cause,Mitral Valve Prolapse
+Troponin Test,contraindication,Heart Failure
+Adalimumab,may treat,Psoriasis
+Isotretinoin,has adverse effect,Dry skin
+Biopsy,may diagnose,Melanoma
+Doxycycline,contraindication,Pregnancy
+Methotrexate,interacts with,Trimethoprim
+Patch testing,may diagnose,Contact dermatitis
+Hydrochlorothiazide,may cause,Photosensitivity
+Rosacea,ddx,Lupus erythematosus
+Metformin,may treat,Hidradenitis Suppurativa
+Isotretinoin,has adverse effect,Cheilitis
+Psoralen,contraindication,Lupus Erythematosus
+Clobetasol Propionate,may treat,Lichen Planus
+Doxycycline,has adverse effect,Hyperpigmentation
+Tacrolimus,interacts with,Cyclosporine
+UVB Phototherapy,contraindication,Xeroderma Pigmentosum
+Hydrochlorothiazide,may cause,Psoriasis
+Methotrexate,contraindication,Alopecia Areata
+Salicylic Acid,may diagnose,Melanoma
+Tretinoin,has adverse effect,Epidermolysis Bullosa
+Allopurinol,interacts with,Hydroxyzine
+Phototherapy,ddx,Basal Cell Carcinoma
+Isotretinoin,may treat,Vitiligo
+Ketoconazole,may cause,Erythema Multiforme
+Metformin,may treat,Type 2 Diabetes Mellitus
+Levothyroxine,may cause,Hyperthyroidism
+Insulin,has adverse effect,Hypoglycemia
+Radioactive Iodine,contraindication,Pregnancy
+Prednisone,may cause,Cushing's Syndrome
+Thyroid-Stimulating Hormone (TSH) Test,may diagnose,Hypothyroidism
+Liraglutide,may treat,Obesity
+Lithium,interacts with,Levothyroxine
+ACTH Stimulation Test,may diagnose,Adrenal Insufficiency
+glucocorticoids,may cause,adrenal insufficiency
+thyroidectomy,has adverse effect,hypocalcemia
+sitagliptin,contraindication,type 1 diabetes
+levothyroxine,interacts with,calcium carbonate
+rosiglitazone,may cause,heart failure
+bromocriptine,may treat,acromegaly
+mifepristone,has adverse effect,adrenal crisis
+cabergoline,interacts with,erythromycin
+Metformin,may diagnose,Type 2 Diabetes
+Cortisol,contraindication,Addison's Disease
+Insulin,interacts with,Thyroid Function Tests
+Dexamethasone,has adverse effect,Cushing's Syndrome
+Thyroid Ultrasound,may treat,Graves' Disease
+Hydrocortisone,ddx,Diabetes Insipidus
+Glipizide,may cause,Hypothyroidism
+Omeprazole,may treat,Gastroesophageal reflux disease
+NSAIDs,may cause,Peptic ulcer disease
+Metoclopramide,has adverse effect,Tardive dyskinesia
+Cirrhosis,contraindication,Liver biopsy
+Ciprofloxacin,interacts with,Theophylline
+Pancreatitis,ddx,Cholecystitis
+Fecal occult blood test,may diagnose,Colorectal cancer
+Lactulose,may treat,Hepatic encephalopathy
+Metformin,may treat,Non-alcoholic fatty liver disease
+Proton pump inhibitors,may cause,Small intestinal bacterial overgrowth
+Lactulose,has adverse effect,Bloating
+Azathioprine,contraindication,Thiopurine methyltransferase deficiency
+Rifaximin,may treat,Irritable bowel syndrome with diarrhea
+Orlistat,has adverse effect,Steatorrhea
+Ursodeoxycholic acid,may treat,Primary biliary cholangitis
+Ciprofloxacin,interacts with,Metoclopramide
+Vedolizumab,contraindication,Active serious infections
+omeprazole,may diagnose,irritable bowel syndrome
+metformin,may cause,peptic ulcer
+colonoscopy,has adverse effect,esophageal varices
+lactulose,contraindication,Crohn's disease
+ranitidine,interacts with,mesalamine
+endoscopy,ddx,pancreatitis
+prednisone,may treat,celiac disease
+barium swallow,may cause,liver cirrhosis
+Hydroxyurea,may treat,Sickle Cell Anemia
+Heparin,may cause,Heparin-Induced Thrombocytopenia
+Warfarin,has adverse effect,Bleeding
+Anagrelide,contraindication,Severe Hepatic Impairment
+Aspirin,interacts with,Clopidogrel
+Vitamin B12 Deficiency,ddx,Folate Deficiency
+Coombs Test,may diagnose,Autoimmune Hemolytic Anemia
+Rivaroxaban,contraindication,Active Bleeding
+Rivaroxaban,may cause,Thrombocytopenia
+Erythropoietin,has adverse effect,Hypertension
+Warfarin,contraindication,Hemophilia
+Tranexamic Acid,may treat,Menorrhagia
+Methotrexate,has adverse effect,Bone Marrow Suppression
+Lenalidomide,may cause,Neutropenia
+Heparin,may diagnose,Hemophilia A
+Warfarin,has adverse effect,Polycythemia Vera
+Iron supplements,contraindication,Thalassemia
+Rivaroxaban,interacts with,Vitamin B12
+Erythropoietin,ddx,Sickle Cell Anemia
+Folic Acid,may cause,Leukemia
+Hydroxyurea,may treat,Deep Vein Thrombosis
+Clopidogrel,may diagnose,Anemia
+Amoxicillin,may treat,Streptococcal pharyngitis
+Gentamicin,has adverse effect,Ototoxicity
+Ciprofloxacin,contraindication,Myasthenia gravis
+Rifampin,interacts with,Warfarin
+HIV,ddx,Mononucleosis
+Tuberculin skin test,may diagnose,Latent tuberculosis
+Vancomycin,may cause,Red man syndrome
+Acyclovir,may treat,Herpes simplex virus infection
+Nitrofurantoin,contraindication,Renal impairment
+Doxycycline,may treat,Malaria
+Amoxicillin,may cause,Clostridioides difficile infection
+Oseltamivir,has adverse effect,Neuropsychiatric symptoms
+Rifampin,contraindication,HIV protease inhibitors
+Azithromycin,interacts with,Warfarin
+Metronidazole,may treat,Helicobacter pylori infection
+Tenofovir,may cause,Renal toxicity
+Linezolid,has adverse effect,Serotonin syndrome
+Ciprofloxacin,contraindication,Pediatric patients
+Oseltamivir,may cause,bacterial pneumonia
+Tuberculosis,may diagnose,sputum culture
+HIV infection,contraindication,vitamin C supplementation
+Ciprofloxacin,has adverse effect,common cold
+Amoxicillin,may treat,influenza
+Zidovudine,interacts with,ibuprofen
+Rapid antigen test,ddx,bacterial meningitis
+Metronidazole,contraindication,viral hepatitis
+Losartan,may treat,Hypertension in chronic kidney disease
+Gentamicin,may cause,Acute kidney injury
+Metformin,has adverse effect,Lactic acidosis
+NSAIDs,contraindication,Chronic kidney disease
+Ciprofloxacin,interacts with,Cyclosporine
+Renal ultrasound,may diagnose,Polycystic kidney disease
+Furosemide,may treat,Edema in nephrotic syndrome
+Hematuria,ddx,Glomerulonephritis
+Sodium bicarbonate,may treat,metabolic acidosis
+Contrast dye,may cause,acute kidney injury
+Spironolactone,has adverse effect,hyperkalemia
+Lithium,contraindication,chronic kidney disease
+Metformin,interacts with,cimetidine
+Low-protein diet,may treat,proteinuria
+Cyclosporine,has adverse effect,nephrotoxicity
+Ibuprofen,contraindication,advanced renal failure
+Furosemide,may diagnose,Chronic Kidney Disease
+Metformin,may cause,Nephrotic Syndrome
+Polycystic Kidney Disease,may treat,Acute Pyelonephritis
+Hemodialysis,contraindication,Hypokalemia
+Renal Biopsy,interacts with,Captopril
+Hydrochlorothiazide,ddx,IgA Nephropathy
+Erythropoietin,has adverse effect,Nephrolithiasis
+Cyclosporine,may treat,Renal Artery Stenosis
+Carbamazepine,may treat,Trigeminal Neuralgia
+Phenytoin,has adverse effect,Gingival Hyperplasia
+Levodopa,contraindication,Narrow Angle Glaucoma
+Sumatriptan,interacts with,Fluoxetine
+Multiple Sclerosis,ddx,Neuromyelitis Optica
+Lumbar Puncture,may diagnose,Meningitis
+Topiramate,may cause,Cognitive Dysfunction
+Electroencephalogram (EEG),may diagnose,Epilepsy
+Rivastigmine,may treat,Alzheimer's Disease
+Lamotrigine,may treat,Bipolar Depression
+Interferon beta-1a,has adverse effect,Flu-like Symptoms
+Sumatriptan,contraindication,Coronary Artery Disease
+Carbamazepine,interacts with,Warfarin
+Riluzole,may treat,Amyotrophic Lateral Sclerosis
+Gabapentin,may cause,Peripheral Edema
+Botulinum Toxin,has adverse effect,Muscle Weakness
+Levetiracetam,contraindication,Severe Renal Impairment
+Gabapentin,may diagnose,Alzheimer's disease
+MRI,may treat,Multiple sclerosis
+Carbamazepine,may cause,Parkinson's disease
+Ropinirole,contraindication,Epilepsy
+Donepezil,has adverse effect,Migraine
+Lamotrigine,interacts with,Levodopa
+Electroencephalogram (EEG),ddx,Migraine
+Topiramate,may cause,Amyotrophic lateral sclerosis (ALS)
+oxytocin,may treat,postpartum hemorrhage
+magnesium sulfate,may cause,respiratory depression
+methylergometrine,has adverse effect,hypertension
+warfarin,contraindication,pregnancy
+labetalol,interacts with,insulin
+ectopic pregnancy,ddx,acute appendicitis
+non-stress test,may diagnose,fetal distress
+ritodrine,has adverse effect,maternal tachycardia
+metformin,may treat,gestational diabetes
+indomethacin,may cause,premature closure of ductus arteriosus
+oxytocin,has adverse effect,uterine hyperstimulation
+labetalol,contraindication,asthma
+magnesium sulfate,interacts with,nifedipine
+aspirin,may treat,preeclampsia
+misoprostol,may cause,uterine rupture
+heparin,has adverse effect,osteoporosis
+oxytocin,may diagnose,preeclampsia
+magnesium sulfate,contraindication,gestational diabetes
+amniocentesis,may cause,gestational hypertension
+beta blockers,has adverse effect,preterm labor
+nifedipine,may treat,peripartum cardiomyopathy
+chorionic villus sampling,interacts with,methyldopa
+epidural anesthesia,ddx,placenta previa
+misoprostol,interacts with,heparin
+Trastuzumab,may treat,HER2-positive breast cancer
+Cyclophosphamide,may cause,hemorrhagic cystitis
+Doxorubicin,has adverse effect,cardiotoxicity
+Tamoxifen,contraindication,pregnancy
+Warfarin,interacts with,Capecitabine
+Prostate specific antigen (PSA) test,may diagnose,prostate cancer
+Erlotinib,may treat,non-small cell lung cancer
+Fluorouracil,has adverse effect,mucositis
+Multiple myeloma,ddx,metastatic bone disease
+metformin,may treat,prostate cancer
+immunotherapy,may cause,colitis
+tamoxifen,has adverse effect,endometrial cancer
+cisplatin,contraindication,renal impairment
+radiation therapy,may cause,secondary cancers
+bevacizumab,interacts with,sunitinib
+sorafenib,may treat,thyroid cancer
+lenvatinib,contraindication,uncontrolled hypertension
+Tamoxifen,may diagnose,Breast Cancer
+Bevacizumab,contraindication,Renal Cell Carcinoma
+Cisplatin,may cause,Leukemia
+Melanoma,ddx,Lung Cancer
+Doxorubicin,interacts with,Metformin
+BRCA1 Mutation Test,may treat,Ovarian Cancer
+Radiotherapy,has adverse effect,Prostate Cancer
+Tamoxifen,may cause,Prostate Cancer
+Imatinib,contraindication,Chronic Myeloid Leukemia
+Amoxicillin,may treat,Otitis media
+Ibuprofen,may cause,Gastritis
+Methylphenidate,has adverse effect,Insomnia
+Aspirin,contraindication,Viral infection
+Lamotrigine,interacts with,Valproic acid
+Leukemia,ddx,Idiopathic thrombocytopenic purpura
+Sweat test,may diagnose,Cystic fibrosis
+Inhaled corticosteroids,may treat,Asthma
+Propranolol,may treat,infantile hemangioma
+Valproic acid,may cause,weight gain
+Dexamethasone,has adverse effect,growth suppression
+Ibuprofen,contraindication,chickenpox
+Risperidone,may treat,irritability in autism
+Aspirin,has adverse effect,Reye's syndrome
+Carbamazepine,interacts with,erythromycin
+Metformin,contraindication,renal impairment
+amoxicillin,may diagnose,otitis media
+albuterol,may cause,chickenpox
+ibuprofen,contraindication,strep throat
+acetaminophen,has adverse effect,autism
+penicillin,may treat,viral pneumonia
+varicella vaccine,interacts with,metformin
+salbutamol,ddx,cystic fibrosis
+measles vaccine,may cause,juvenile diabetes
+Fluoxetine,may treat,Major Depressive Disorder
+Lithium,may cause,Hypothyroidism
+Clozapine,has adverse effect,Agranulocytosis
+Monoamine oxidase inhibitors,contraindication,Tyramine-rich foods
+Sertraline,interacts with,Warfarin
+Patient Health Questionnaire-9 (PHQ-9),may diagnose,Depression
+Haloperidol,may treat,Schizophrenia
+Electroconvulsive Therapy (ECT),ddx,Treatment-resistant Depression
+Lamotrigine,may treat,Borderline Personality Disorder
+Bupropion,may cause,Seizures
+Quetiapine,may treat,Sleep disturbances in PTSD
+Fluoxetine,interacts with,Tramadol
+Lithium,has adverse effect,Thyroid dysfunction
+SSRIs,contraindication,Concomitant use with MAOIs
+Aripiprazole,may cause,Impulse control problems
+Clozapine,may diagnose,Bipolar Disorder
+Fluoxetine,has adverse effect,Improved Sleep Quality
+Lithium,may cause,Increased Dopamine Levels
+Sertraline,contraindication,Seasonal Affective Disorder
+Valproate,interacts with,Cognitive Behavioral Therapy
+Diazepam,ddx,Obsessive-Compulsive Disorder
+ECT (Electroconvulsive Therapy),may treat,Generalized Anxiety Disorder
+Venlafaxine,may cause,Hypothyroidism
+Isoniazid,has adverse effect,Hepatitis
+Beta-blockers,contraindication,COPD
+Theophylline,interacts with,Ciprofloxacin
+Pulmonary embolism,ddx,Pneumonia
+Chest X-ray,may diagnose,Pneumothorax
+Methotrexate,may cause,Interstitial lung disease
+Nintedanib,may treat,idiopathic pulmonary fibrosis
+Aspirin,may cause,bronchospasm
+Beta-blockers,has adverse effect,asthma exacerbation
+Pulmonary function test,contraindication,recent pneumothorax
+Montelukast,may treat,exercise-induced bronchoconstriction
+Inhaled corticosteroids,has adverse effect,oral thrush
+Methotrexate,may treat,sarcoidosis
+Pneumococcal vaccine,contraindication,acute febrile illness
+albuterol,may diagnose,asthma
+chest X-ray,may treat,pneumonia
+spirometry,has adverse effect,chronic obstructive pulmonary disease (COPD)
+prednisone,contraindication,bronchitis
+montelukast,interacts with,salbutamol
+pulmonary function test,may cause,lung cancer
+oxygen therapy,ddx,sleep apnea
+inhaled corticosteroids,may diagnose,chronic bronchitis
+Hydroxychloroquine,may cause,Retinopathy
+NSAIDs,has adverse effect,Gastrointestinal Bleeding
+Leflunomide,interacts with,Warfarin
+Systemic Lupus Erythematosus,ddx,Rheumatoid Arthritis
+Anti-CCP Antibody Test,may diagnose,Rheumatoid Arthritis
+Etanercept,may treat,Ankylosing Spondylitis
+Rituximab,may treat,Granulomatosis with polyangiitis
+Hydroxychloroquine,may cause,Retinal toxicity
+Methotrexate,has adverse effect,Liver fibrosis
+TNF inhibitors,contraindication,Multiple sclerosis
+Sulfasalazine,interacts with,Warfarin
+Colchicine,may treat,Familial Mediterranean fever
+Azathioprine,may cause,Bone marrow suppression
+Anakinra,has adverse effect,Neutropenia
+Prednisone,may diagnose,Rheumatoid arthritis
+Methotrexate,interacts with,Ibuprofen
+Hydroxychloroquine,may cause,Osteoarthritis
+Sulfasalazine,contraindication,Ankylosing spondylitis
+TNF inhibitors,has adverse effect,Gout
+Allopurinol,ddx,Systemic lupus erythematosus
+Colchicine,may treat,Fibromyalgia
+Antinuclear antibody test,interacts with,Leflunomide
+Psoriasis,may cause,Psoriatic arthritis
+Eczema,may treat,Topical corticosteroids
+Iron deficiency anemia,may diagnose,Low ferritin
+Gout,contraindication,Thiazide diuretics
+Pregnancy,interacts with,Warfarin
+Acne vulgaris,has adverse effect,Scarring
+Vitamin B12 deficiency,may treat,Metformin
+Chronic kidney disease,may cause,Anemia
+Pregnancy,may cause,Hypertension
+Psoriasis,may diagnose,Elevated uric acid
+Lupus nephritis,may treat,Cyclophosphamide
+Hydroxychloroquine,has adverse effect,Retinopathy
+Dermatitis herpetiformis,ddx,Celiac disease
+Hemophilia,may cause,Deep vein thrombosis
+Preeclampsia,contraindication,ACE inhibitors
+Rheumatoid arthritis,interacts with,Methotrexate

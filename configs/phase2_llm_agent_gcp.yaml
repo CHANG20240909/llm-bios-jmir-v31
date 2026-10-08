@@ -1,0 +1,28 @@
+# Phase 2 LLM Agent — GCP VM 실행용 config
+# Phase 2A scored CSV에서 WARN/FAIL 케이스를 추출하여 GPT-4o로 재검토
+#
+# 실행 전 필수:
+#   export OPENAI_API_KEY="sk-..."
+#   pip install openai python-dotenv
+#
+# 실행:
+#   cd ~/llm-bios/nyuolab-src-clean
+#   python phase2_pipeline.py --config ../configs/phase2_llm_agent_gcp.yaml
+#
+# dry-run (API 비용 없이 구조 확인):
+#   python phase2_pipeline.py --config ../configs/phase2_llm_agent_gcp.yaml --dry-run
+
+phase2:
+  # Phase 2A batch validation에서 생성된 scored CSV
+  # WARN/FAIL 케이스가 가장 많은 LAPC 데이터셋 우선 실행
+  scored_csv: REPO_ROOT/outputs/phase2a/llm_answer_full_scored.csv
+
+  output_jsonl: REPO_ROOT/outputs/phase2/llm_answer_full_phase2.jsonl
+  output_report: REPO_ROOT/outputs/phase2/llm_answer_full_phase2_report.txt
+
+  model: gpt-4o
+
+  # 전체 4개 데이터셋을 순차 실행하려면 아래 주석 해제 후 scored_csv 경로 교체
+  # llm_answer_easy:  REPO_ROOT/outputs/phase2a/llm_answer_easy_scored.csv
+  # llm_answer_2:     REPO_ROOT/outputs/phase2a/llm_answer_2_scored.csv
+  # test_phrases:     REPO_ROOT/outputs/phase2a/test_phrases_scored.csv

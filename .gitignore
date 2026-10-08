@@ -1,0 +1,48 @@
+# API keys and secrets
+.env
+.env.*
+
+# Virtual environment
+.venv/
+
+# Large data files
+data/vector_db_bios_200k/
+data/vector_db_bios_20k/
+data/bios_kg/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Outputs (large artifacts — keep key research docs tracked)
+outputs/*
+!outputs/ablation/
+outputs/ablation/*
+!outputs/ablation/*.md
+!outputs/ablation/*_scored.csv
+!outputs/ablation/*.jsonl
+!outputs/*.md
+!outputs/ablation_500/
+outputs/ablation_500/*
+!outputs/ablation_500/*.md
+!outputs/ablation_500/*_scored.csv
+!outputs/ablation_500/*.jsonl
+!outputs/paper/
+outputs/paper/*
+!outputs/paper/*.md
+# paper figures (sources + rendered vector/raster)
+!outputs/paper/figures/
+outputs/paper/figures/*
+!outputs/paper/figures/*.mmd
+!outputs/paper/figures/*.svg
+!outputs/paper/figures/*.pdf
+!outputs/paper/figures/*.png
+
+# Local release archives (published separately after approval)
+dist/
+
+# Editor
+.idea/
+.vscode/
+*.swp

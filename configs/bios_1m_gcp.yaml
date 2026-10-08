@@ -1,0 +1,22 @@
+# GCP VM용 Clinical KG 빌드 config
+# 임상 관계 전체(~105만) + is_a 샘플(20만) = 약 125만 edges
+# 경로는 gcp_build.sh가 자동으로 치환합니다.
+# 직접 사용 시 REPO_ROOT를 실제 경로로 교체하세요.
+
+seed: 0
+medical_phrases: REPO_ROOT/data/test_phrases.csv
+
+verify:
+  k_r: 1
+  k_c: 1
+  check_negatives: false
+  check_exact_relationships: true
+  check_exact_concepts: true
+
+knowledge_graph:
+  ground_truth: REPO_ROOT/data/bios_kg/bios_edges_term_sample_1m.jsonl
+  vector_db_root: REPO_ROOT/data/vector_db_bios_1m
+  rebuild_vector_db: false
+  embedding_model: medcpt
+  embedding_batch_size: 64
+  streaming_kg: true

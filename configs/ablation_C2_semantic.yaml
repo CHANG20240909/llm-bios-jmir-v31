@@ -1,0 +1,24 @@
+# C2: KG-Semantic — Phase 1, semantic (vector) matching
+# Relaxes exact matching; uses embedding similarity
+seed: 0
+medical_phrases: REPO_ROOT/data/PLACEHOLDER_PHRASES.csv
+
+alarm_mode: true
+strict_threshold: 0.05
+loose_threshold: 0.3
+n_candidates: 3
+
+verify:
+  k_r: 1
+  k_c: 1
+  check_negatives: false
+  check_exact_relationships: false
+  check_exact_concepts: false
+
+knowledge_graph:
+  ground_truth: REPO_ROOT/data/bios_kg/bios_edges_term_sample_1m.jsonl
+  vector_db_root: REPO_ROOT/data/vector_db_bios_1m
+  rebuild_vector_db: false
+  embedding_model: medcpt
+  embedding_batch_size: 64
+  streaming_kg: true
