@@ -138,10 +138,10 @@ def main() -> None:
     code_files = list(CODE_EXPLICIT)
     code_files.extend(tracked_under("nyuolab-src-clean"))
 
-    code_zip = DIST / "llm-bios-jmir-ai-v1.0.0-v31-code-pre-release.zip"
+    code_zip = DIST / "llm-bios-jmir-ai-v3.1.1-code.zip"
     data_zip = DIST / "benchmark-500-v1.0.0-pre-release.zip"
 
-    write_archive(code_zip, "llm-bios-jmir-ai-v1.0.0-v31", code_files)
+    write_archive(code_zip, "llm-bios-jmir-ai-v3.1.1", code_files)
     write_archive(data_zip, "benchmark-500-v1.0.0", list(DATA_FILES))
     verify_archive(code_zip)
     verify_archive(data_zip)
@@ -155,7 +155,7 @@ def main() -> None:
     print(f"built {code_zip.relative_to(ROOT)} ({code_zip.stat().st_size} bytes)")
     print(f"built {data_zip.relative_to(ROOT)} ({data_zip.stat().st_size} bytes)")
     print("verified embedded and archive-level SHA-256 manifests")
-    print("pre-release only: dataset license, DOI, and final SHA remain pending")
+    print("local package built: DOI assignment remains an external deposit step")
 
 
 if __name__ == "__main__":

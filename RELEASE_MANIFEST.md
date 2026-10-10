@@ -4,7 +4,7 @@ Status: local pre-release candidate; not yet published or assigned a DOI.
 
 ## Version identity
 
-- Candidate release: `v1.0.0`
+- Candidate release: `v3.1.1`
 - Public repository: `CHANG20240909/llm-bios-jmir-v31` (planned)
 - Source release branch: `release/jmir-ai-v1.0.0-v31`
 - Development-repository base: `b7a786d6`
@@ -41,6 +41,15 @@ The dataset ZIP contains:
 - `data/LICENSE_CC_BY_NC_4.0.md`.
 
 The dataset license is CC BY-NC 4.0. The DOI and final citation remain pending.
+
+## Metadata correction
+
+Release `v3.1.1` supersedes `v3.1.0` as a metadata-only correction. The
+`v3.1.0` GitHub tag and Zenodo record correctly identified the release version,
+but the archived `CITATION.cff` and this manifest still carried the earlier
+candidate version `1.0.0`. Release `v3.1.1` aligns those metadata fields. The
+evaluated v3.1 prompt, code behavior, benchmark, canonical outputs, and reported
+results are unchanged.
 
 ## Files protected from modification
 

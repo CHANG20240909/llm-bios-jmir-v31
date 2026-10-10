@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software or benchmark, please cite this release and the accompanying manuscript."
 title: "LLM-BIOS: Two-Stage Knowledge Graph and LLM Safety Screening of Medical Facts"
 type: software
-version: 1.0.0
-date-released: 2026-10-08
+version: 3.1.1
+date-released: 2026-10-10
 license: GPL-3.0-only
 repository-code: "https://github.com/CHANG20240909/llm-bios-jmir-v31"
 authors:
